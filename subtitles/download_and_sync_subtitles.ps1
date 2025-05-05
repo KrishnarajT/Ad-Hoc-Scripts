@@ -23,12 +23,15 @@ foreach ($video in $videoFiles) {
         if (Test-Path $subtitleFile) {
             Write-Host "Synchronizing subtitles for: $($video.FullName)"
             
+            # Define the new synced subtitle filename
+            $subtitleFileSynced = [System.IO.Path]::ChangeExtension($video.FullName, ".$language.synced.srt")
+
             # Construct the ffsubsync command
-            $syncCommand = "ffsubsync `"$($video.FullName)`" -i `"$subtitleFile`" -o `"$subtitleFile`""
+            $syncCommand = "ffsubsync `"$($video.FullName)`" -i `"$subtitleFile`" --vad webrtc -o `"$subtitleFileSynced`""
             
             # Run ffsubsync to sync subtitles
             Invoke-Expression $syncCommand
-            Write-Host "Subtitle synchronization completed for: $($video.FullName)"
+            Write-Host "Subtitle synchronization completed: `"$subtitleFileSynced`""
         } else {
             Write-Host "No subtitles found for: $($video.FullName), skipping sync."
         }
