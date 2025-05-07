@@ -1,0 +1,10 @@
+[project]
+name = "ytdlp-creates-m3u-files"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "yt-dlp>=2025.3.31",
+    "ytmusicapi>=1.10.3",
+]

@@ -1,0 +1,3020 @@
+[
+  {
+    "artist": "Bruno Mars Feat. Cardi B",
+    "title": "Finesse (Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\24K Magic\\10. Finesse (Remix).flac",
+    "relpath": "albums\\24K Magic\\10. Finesse (Remix).flac"
+  },
+  {
+    "artist": "Zedd & Katy Perry",
+    "title": "365",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\365\\1. 365.flac",
+    "relpath": "albums\\365\\1. 365.flac"
+  },
+  {
+    "artist": "Zedd",
+    "title": "365 (Zedd Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\365 (Remixes)\\1. 365 (Zedd Remix).flac",
+    "relpath": "albums\\365 (Remixes)\\1. 365 (Zedd Remix).flac"
+  },
+  {
+    "artist": "Zedd & Katy Perry",
+    "title": "365 (Jonas Aden Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\365 (Remixes)\\2. 365 (Jonas Aden Remix).flac",
+    "relpath": "albums\\365 (Remixes)\\2. 365 (Jonas Aden Remix).flac"
+  },
+  {
+    "artist": "Zedd & Katy Perry",
+    "title": "365 (Ellis Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\365 (Remixes)\\3. 365 (Ellis Remix).flac",
+    "relpath": "albums\\365 (Remixes)\\3. 365 (Ellis Remix).flac"
+  },
+  {
+    "artist": "Zedd & Katy Perry",
+    "title": "365 (KUURO Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\365 (Remixes)\\4. 365 (KUURO Remix).flac",
+    "relpath": "albums\\365 (Remixes)\\4. 365 (KUURO Remix).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Homeless (Live At The Bedford)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\5\\2. Homeless (Live At The Bedford).flac",
+    "relpath": "albums\\5\\2. Homeless (Live At The Bedford).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "The City (Live At The Bedford)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\5\\3. The City (Live At The Bedford).flac",
+    "relpath": "albums\\5\\3. The City (Live At The Bedford).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Fall (Live At The Bedford)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\5\\4. Fall (Live At The Bedford).flac",
+    "relpath": "albums\\5\\4. Fall (Live At The Bedford).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "You Need Me, I Don\u2019t Need You (Live At The Bedford)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\5\\6. You Need Me, I Don\u2019t Need You (Live At The Bedford).flac",
+    "relpath": "albums\\5\\6. You Need Me, I Don\u2019t Need You (Live At The Bedford).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "The City (Live At Sticky Studios; Loose Change EP)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\5\\7. The City (Live At Sticky Studios; Loose Change EP).flac",
+    "relpath": "albums\\5\\7. The City (Live At Sticky Studios; Loose Change EP).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Firefly (Bravado Dubstep Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\5\\8. Firefly (Bravado Dubstep Remix).flac",
+    "relpath": "albums\\5\\8. Firefly (Bravado Dubstep Remix).flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Hometown Glory",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Adele_ Hometown Glory\\1. Hometown Glory.flac",
+    "relpath": "albums\\Adele_ Hometown Glory\\1. Hometown Glory.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Afterglow",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Afterglow\\1. Afterglow.flac",
+    "relpath": "albums\\Afterglow\\1. Afterglow.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "All Alone",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\1. All Alone.flac",
+    "relpath": "albums\\All Alone\\1. All Alone.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Together",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\10. Together.flac",
+    "relpath": "albums\\All Alone\\10. Together.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "The Song Is Ended (But The Melody Lingers On)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\11. The Song Is Ended (But The Melody Lingers On).flac",
+    "relpath": "albums\\All Alone\\11. The Song Is Ended (But The Melody Lingers On).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "The Girl Next Door",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\2. The Girl Next Door.flac",
+    "relpath": "albums\\All Alone\\2. The Girl Next Door.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Are You Lonesome Tonight?",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\3. Are You Lonesome Tonight_.flac",
+    "relpath": "albums\\All Alone\\3. Are You Lonesome Tonight_.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Charmaine",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\4. Charmaine.flac",
+    "relpath": "albums\\All Alone\\4. Charmaine.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "What'll I Do?",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\5. What'll I Do_.flac",
+    "relpath": "albums\\All Alone\\5. What'll I Do_.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "When I Lost You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\6. When I Lost You.flac",
+    "relpath": "albums\\All Alone\\6. When I Lost You.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Oh, How I Miss You Tonight",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\7. Oh, How I Miss You Tonight.flac",
+    "relpath": "albums\\All Alone\\7. Oh, How I Miss You Tonight.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Indiscreet",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\8. Indiscreet.flac",
+    "relpath": "albums\\All Alone\\8. Indiscreet.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Remember",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Alone\\9. Remember.flac",
+    "relpath": "albums\\All Alone\\9. Remember.flac"
+  },
+  {
+    "artist": "Alan Walker, Noah Cyrus & Digital Farm Animals feat. Juliander",
+    "title": "All Falls Down",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Falls Down\\1. All Falls Down.flac",
+    "relpath": "albums\\All Falls Down\\1. All Falls Down.flac"
+  },
+  {
+    "artist": "Alan Walker, Noah Cyrus & Digital Farm Animals",
+    "title": "All Falls Down (Mio Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Falls Down (Remixes)\\2. All Falls Down (Mio Remix).flac",
+    "relpath": "albums\\All Falls Down (Remixes)\\2. All Falls Down (Mio Remix).flac"
+  },
+  {
+    "artist": "Alan Walker, Noah Cyrus & Digital Farm Animals",
+    "title": "All Falls Down (Todd Edwards Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Falls Down (Remixes)\\3. All Falls Down (Todd Edwards Remix).flac",
+    "relpath": "albums\\All Falls Down (Remixes)\\3. All Falls Down (Todd Edwards Remix).flac"
+  },
+  {
+    "artist": "Alan Walker, Noah Cyrus & Digital Farm Animals",
+    "title": "All Falls Down (K\u2010391 Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Falls Down (Remixes)\\4. All Falls Down (K\u2010391 Remix).flac",
+    "relpath": "albums\\All Falls Down (Remixes)\\4. All Falls Down (K\u2010391 Remix).flac"
+  },
+  {
+    "artist": "Alan Walker, Noah Cyrus & Digital Farm Animals",
+    "title": "All Falls Down (Jay Pryor Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Falls Down (Remixes)\\5. All Falls Down (Jay Pryor Remix).flac",
+    "relpath": "albums\\All Falls Down (Remixes)\\5. All Falls Down (Jay Pryor Remix).flac"
+  },
+  {
+    "artist": "Alan Walker, Noah Cyrus & Digital Farm Animals",
+    "title": "All Falls Down (Mark Villa Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All Falls Down (Remixes)\\6. All Falls Down (Mark Villa Remix).flac",
+    "relpath": "albums\\All Falls Down (Remixes)\\6. All Falls Down (Mark Villa Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "All You Need Is Love",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\All You Need Is Love\\1. All You Need Is Love.flac",
+    "relpath": "albums\\All You Need Is Love\\1. All You Need Is Love.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone (Instrumental Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone\\2. Alone (Instrumental Remix).flac",
+    "relpath": "albums\\Alone\\2. Alone (Instrumental Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone (Restrung)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone\\3. Alone (Restrung).flac",
+    "relpath": "albums\\Alone\\3. Alone (Restrung).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone (George Kwali Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone (Remixes)\\3. Alone (George Kwali Remix).flac",
+    "relpath": "albums\\Alone (Remixes)\\3. Alone (George Kwali Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone (Jack Wins Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone (Remixes)\\4. Alone (Jack Wins Remix).flac",
+    "relpath": "albums\\Alone (Remixes)\\4. Alone (Jack Wins Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone (Blazars Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone (Remixes)\\5. Alone (Blazars Remix).flac",
+    "relpath": "albums\\Alone (Remixes)\\5. Alone (Blazars Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone (Parx Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone (Remixes)\\6. Alone (Parx Remix).flac",
+    "relpath": "albums\\Alone (Remixes)\\6. Alone (Parx Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Ava Max",
+    "title": "Alone, Pt. II",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone, Pt. II\\1. Alone, Pt. II.flac",
+    "relpath": "albums\\Alone, Pt. II\\1. Alone, Pt. II.flac"
+  },
+  {
+    "artist": "Alan Walker & Ava Max",
+    "title": "Alone, Pt. II (live at Ch\u00e2teau de Fontainebleau)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone, Pt. II (Live At Ch\u00e2teau De Fontainebleau)\\1. Alone, Pt. II (live at Ch\u00e2teau de Fontainebleau).flac",
+    "relpath": "albums\\Alone, Pt. II (Live At Ch\u00e2teau De Fontainebleau)\\1. Alone, Pt. II (live at Ch\u00e2teau de Fontainebleau).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone, Pt. II (RetroVision Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone, Pt. II (Remixes)\\1. Alone, Pt. II (RetroVision Remix).flac",
+    "relpath": "albums\\Alone, Pt. II (Remixes)\\1. Alone, Pt. II (RetroVision Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Ava Max",
+    "title": "Alone, Pt. II (Da Tweekaz Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone, Pt. II (Remixes)\\2. Alone, Pt. II (Da Tweekaz Remix).flac",
+    "relpath": "albums\\Alone, Pt. II (Remixes)\\2. Alone, Pt. II (Da Tweekaz Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Ava Max",
+    "title": "Alone, Pt. II (Toby Romeo Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone, Pt. II (Remixes)\\3. Alone, Pt. II (Toby Romeo Remix).flac",
+    "relpath": "albums\\Alone, Pt. II (Remixes)\\3. Alone, Pt. II (Toby Romeo Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Ava Max",
+    "title": "Alone, Pt. II (NIVIRO Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone, Pt. II (Remixes)\\4. Alone, Pt. II (NIVIRO Remix).flac",
+    "relpath": "albums\\Alone, Pt. II (Remixes)\\4. Alone, Pt. II (NIVIRO Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Ava Max",
+    "title": "Alone, Pt. II (Alex Skrindo & Sebastian Wibe Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone, Pt. II (Remixes)\\5. Alone, Pt. II (Alex Skrindo & Sebastian Wibe Remix).flac",
+    "relpath": "albums\\Alone, Pt. II (Remixes)\\5. Alone, Pt. II (Alex Skrindo & Sebastian Wibe Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Ava Max",
+    "title": "Alone, Pt. II (Mio Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone, Pt. II (Remixes)\\6. Alone, Pt. II (Mio Remix).flac",
+    "relpath": "albums\\Alone, Pt. II (Remixes)\\6. Alone, Pt. II (Mio Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Ava Max",
+    "title": "Alone, Pt. II (Rugged Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Alone, Pt. II (Remixes)\\7. Alone, Pt. II (Rugged Remix).flac",
+    "relpath": "albums\\Alone, Pt. II (Remixes)\\7. Alone, Pt. II (Rugged Remix).flac"
+  },
+  {
+    "artist": "Dido",
+    "title": "Thank You (Acoustic)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Anthems_ Acoustic\\3. Thank You (Acoustic).flac",
+    "relpath": "albums\\Anthems_ Acoustic\\3. Thank You (Acoustic).flac"
+  },
+  {
+    "artist": "Ed Sheeran w/ Travis Scott",
+    "title": "Antisocial",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Antisocial\\1. Antisocial.flac",
+    "relpath": "albums\\Antisocial\\1. Antisocial.flac"
+  },
+  {
+    "artist": "Steve Aoki & Alan Walker feat. IS\u00c1K",
+    "title": "Are You Lonely",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Are You Lonely\\1. Are You Lonely.flac",
+    "relpath": "albums\\Are You Lonely\\1. Are You Lonely.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Avem (The Aviation Theme)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Avem (The Aviation Theme)\\1. Avem (The Aviation Theme).flac",
+    "relpath": "albums\\Avem (The Aviation Theme)\\1. Avem (The Aviation Theme).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Toxic (Peter Rauhofer Reconstruction Mix) (Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\B In The Mix_ The Remixes\\12. Toxic (Peter Rauhofer Reconstruction Mix) (Radio Edit).flac",
+    "relpath": "albums\\B In The Mix_ The Remixes\\12. Toxic (Peter Rauhofer Reconstruction Mix) (Radio Edit).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Bad Habits (Jub\u00ebl Remode)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Bad Habits_ The Remixes\\1. Bad Habits (Jub\u00ebl Remode).flac",
+    "relpath": "albums\\Bad Habits_ The Remixes\\1. Bad Habits (Jub\u00ebl Remode).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Bad Habits (Kooldrink Amapiano Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Bad Habits_ The Remixes\\2. Bad Habits (Kooldrink Amapiano Remix).flac",
+    "relpath": "albums\\Bad Habits_ The Remixes\\2. Bad Habits (Kooldrink Amapiano Remix).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Bad Habits (SHAUN Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Bad Habits_ The Remixes\\3. Bad Habits (SHAUN Remix).flac",
+    "relpath": "albums\\Bad Habits_ The Remixes\\3. Bad Habits (SHAUN Remix).flac"
+  },
+  {
+    "artist": "Ed Sheeran feat. Khalid",
+    "title": "Beautiful People",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Beautiful People\\1. Beautiful People.flac",
+    "relpath": "albums\\Beautiful People\\1. Beautiful People.flac"
+  },
+  {
+    "artist": "Alan Walker & Conor Maynard",
+    "title": "Believers",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Believers\\1. Believers.flac",
+    "relpath": "albums\\Believers\\1. Believers.flac"
+  },
+  {
+    "artist": "Ed Sheeran feat. YEBBA",
+    "title": "Best Part of Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Best Part Of Me\\1. Best Part of Me.flac",
+    "relpath": "albums\\Best Part Of Me\\1. Best Part of Me.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Birthday (Cash Cash remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Birthday (Cash Cash Remix)\\1. Birthday (Cash Cash remix).flac",
+    "relpath": "albums\\Birthday (Cash Cash Remix)\\1. Birthday (Cash Cash remix).flac"
+  },
+  {
+    "artist": "Ed Sheeran w/ Chris Stapleton & Bruno Mars",
+    "title": "BLOW",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\BLOW\\1. BLOW.flac",
+    "relpath": "albums\\BLOW\\1. BLOW.flac"
+  },
+  {
+    "artist": "Katy Perry feat. Migos",
+    "title": "Bon app\u00e9tit (3LAU remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Bon App\u00e9tit (3LAU Remix)\\1. Bon app\u00e9tit (3LAU remix).flac",
+    "relpath": "albums\\Bon App\u00e9tit (3LAU Remix)\\1. Bon app\u00e9tit (3LAU remix).flac"
+  },
+  {
+    "artist": "Katy Perry feat. Migos",
+    "title": "Bon app\u00e9tit (Martin Jensen remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Bon App\u00e9tit (Martin Jensen Remix)\\1. Bon app\u00e9tit (Martin Jensen remix).flac",
+    "relpath": "albums\\Bon App\u00e9tit (Martin Jensen Remix)\\1. Bon app\u00e9tit (Martin Jensen remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Bon app\u00e9tit (MUNA remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Bon App\u00e9tit (MUNA Remix)\\1. Bon app\u00e9tit (MUNA remix).flac",
+    "relpath": "albums\\Bon App\u00e9tit (MUNA Remix)\\1. Bon app\u00e9tit (MUNA remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Chaotic",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Britney & Kevin_ Chaotic DVD Bonus Audio\\1. Chaotic.flac",
+    "relpath": "albums\\Britney & Kevin_ Chaotic DVD Bonus Audio\\1. Chaotic.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Someday (I Will Understand)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Britney & Kevin_ Chaotic DVD Bonus Audio\\2. Someday (I Will Understand).flac",
+    "relpath": "albums\\Britney & Kevin_ Chaotic DVD Bonus Audio\\2. Someday (I Will Understand).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Mona Lisa",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Britney & Kevin_ Chaotic DVD Bonus Audio\\3. Mona Lisa.flac",
+    "relpath": "albums\\Britney & Kevin_ Chaotic DVD Bonus Audio\\3. Mona Lisa.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "California Gurls",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\California Gurls\\1. California Gurls.flac",
+    "relpath": "albums\\California Gurls\\1. California Gurls.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Hot N Cold (Yelle Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\California Gurls\\2. Hot N Cold (Yelle Remix).flac",
+    "relpath": "albums\\California Gurls\\2. Hot N Cold (Yelle Remix).flac"
+  },
+  {
+    "artist": "Pedro Cap\u00f3",
+    "title": "Calma (Alan Walker Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Calma (Alan Walker Remix)\\1. Calma (Alan Walker Remix).flac",
+    "relpath": "albums\\Calma (Alan Walker Remix)\\1. Calma (Alan Walker Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Tucked",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Camp Katy\\1. Tucked.flac",
+    "relpath": "albums\\Camp Katy\\1. Tucked.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "California Gurls",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Camp Katy\\3. California Gurls.flac",
+    "relpath": "albums\\Camp Katy\\3. California Gurls.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Walking On Air",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Camp Katy\\5. Walking On Air.flac",
+    "relpath": "albums\\Camp Katy\\5. Walking On Air.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Waking Up In Vegas",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Camp Katy\\6. Waking Up In Vegas.flac",
+    "relpath": "albums\\Camp Katy\\6. Waking Up In Vegas.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Castle on the Hill",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Castle On The Hill\\1. Castle on the Hill.flac",
+    "relpath": "albums\\Castle On The Hill\\1. Castle on the Hill.flac"
+  },
+  {
+    "artist": "Katy Perry feat. Lil Yachty",
+    "title": "Chained to the Rhythm",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Chained To The Rhythm\\1. Chained to the Rhythm.flac",
+    "relpath": "albums\\Chained To The Rhythm\\1. Chained to the Rhythm.flac"
+  },
+  {
+    "artist": "Katy Perry feat. Skip Marley",
+    "title": "Chained to the Rhythm (Hot Chip remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Chained To The Rhythm (Hot Chip Remix)\\1. Chained to the Rhythm (Hot Chip remix).flac",
+    "relpath": "albums\\Chained To The Rhythm (Hot Chip Remix)\\1. Chained to the Rhythm (Hot Chip remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Chained to the Rhythm (Oliver Heldens remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Chained To The Rhythm (Oliver Heldens Remix)\\1. Chained to the Rhythm (Oliver Heldens remix).flac",
+    "relpath": "albums\\Chained To The Rhythm (Oliver Heldens Remix)\\1. Chained to the Rhythm (Oliver Heldens remix).flac"
+  },
+  {
+    "artist": "Guy Sebastian & Alan Walker",
+    "title": "Choir (remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Choir (Remix)\\1. Choir (remix).flac",
+    "relpath": "albums\\Choir (Remix)\\1. Choir (remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Circus (Linus Loves Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Circus (Remixes)\\7. Circus (Linus Loves Remix).flac",
+    "relpath": "albums\\Circus (Remixes)\\7. Circus (Linus Loves Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Circus (Twister Rave remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Circus (Twister Rave Remix)\\1. Circus (Twister Rave remix).flac",
+    "relpath": "albums\\Circus (Twister Rave Remix)\\1. Circus (Twister Rave remix).flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Cold Shoulder",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cold Shoulder\\1. Cold Shoulder.flac",
+    "relpath": "albums\\Cold Shoulder\\1. Cold Shoulder.flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Cold Shoulder (Basement Jaxx Classic Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cold Shoulder\\2. Cold Shoulder (Basement Jaxx Classic Remix).flac",
+    "relpath": "albums\\Cold Shoulder\\2. Cold Shoulder (Basement Jaxx Classic Remix).flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Cold Shoulder (Basement Jaxx Dub)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cold Shoulder\\3. Cold Shoulder (Basement Jaxx Dub).flac",
+    "relpath": "albums\\Cold Shoulder\\3. Cold Shoulder (Basement Jaxx Dub).flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Cold Shoulder (Rusko Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cold Shoulder\\4. Cold Shoulder (Rusko Remix).flac",
+    "relpath": "albums\\Cold Shoulder\\4. Cold Shoulder (Rusko Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Not The End Of The World",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cosmic Energy\\1. Not The End Of The World.flac",
+    "relpath": "albums\\Cosmic Energy\\1. Not The End Of The World.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "E.T.",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cosmic Energy\\2. E.T..flac",
+    "relpath": "albums\\Cosmic Energy\\2. E.T..flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "This Moment",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cosmic Energy\\3. This Moment.flac",
+    "relpath": "albums\\Cosmic Energy\\3. This Moment.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "By The Grace Of God",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cosmic Energy\\4. By The Grace Of God.flac",
+    "relpath": "albums\\Cosmic Energy\\4. By The Grace Of God.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Bigger Than Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cosmic Energy\\5. Bigger Than Me.flac",
+    "relpath": "albums\\Cosmic Energy\\5. Bigger Than Me.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Wide Awake",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cosmic Energy\\6. Wide Awake.flac",
+    "relpath": "albums\\Cosmic Energy\\6. Wide Awake.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Cozy Little Christmas",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cozy Little Christmas\\1. Cozy Little Christmas.flac",
+    "relpath": "albums\\Cozy Little Christmas\\1. Cozy Little Christmas.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Criminal (DJ Laszlo Mixshow Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Criminal (Remixes)\\1. Criminal (DJ Laszlo Mixshow Edit).flac",
+    "relpath": "albums\\Criminal (Remixes)\\1. Criminal (DJ Laszlo Mixshow Edit).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Criminal (DJ Laszlo Club Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Criminal (Remixes)\\2. Criminal (DJ Laszlo Club Mix).flac",
+    "relpath": "albums\\Criminal (Remixes)\\2. Criminal (DJ Laszlo Club Mix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Criminal (Tom Piper & Riddler Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Criminal (Remixes)\\3. Criminal (Tom Piper & Riddler Remix).flac",
+    "relpath": "albums\\Criminal (Remixes)\\3. Criminal (Tom Piper & Riddler Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Criminal (Varsity Team Extended Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Criminal (Remixes)\\4. Criminal (Varsity Team Extended Remix).flac",
+    "relpath": "albums\\Criminal (Remixes)\\4. Criminal (Varsity Team Extended Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Criminal (Varsity Team Mixshow)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Criminal (Remixes)\\5. Criminal (Varsity Team Mixshow).flac",
+    "relpath": "albums\\Criminal (Remixes)\\5. Criminal (Varsity Team Mixshow).flac"
+  },
+  {
+    "artist": "Katy Perry feat. Lu\u00edsa Sonza & Bruno Martini",
+    "title": "Cry About It Later",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cry About It Later\\1. Cry About It Later.flac",
+    "relpath": "albums\\Cry About It Later\\1. Cry About It Later.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Rain In My Heart",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\1. Rain In My Heart.flac",
+    "relpath": "albums\\Cycles\\1. Rain In My Heart.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Gentle On My Mind",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\10. Gentle On My Mind.flac",
+    "relpath": "albums\\Cycles\\10. Gentle On My Mind.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "From Both Sides, Now",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\2. From Both Sides, Now.flac",
+    "relpath": "albums\\Cycles\\2. From Both Sides, Now.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Little Green Apples",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\3. Little Green Apples.flac",
+    "relpath": "albums\\Cycles\\3. Little Green Apples.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Pretty Colors",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\4. Pretty Colors.flac",
+    "relpath": "albums\\Cycles\\4. Pretty Colors.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Cycles",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\5. Cycles.flac",
+    "relpath": "albums\\Cycles\\5. Cycles.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Wandering",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\6. Wandering.flac",
+    "relpath": "albums\\Cycles\\6. Wandering.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "By The Time I Get To Phoenix",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\7. By The Time I Get To Phoenix.flac",
+    "relpath": "albums\\Cycles\\7. By The Time I Get To Phoenix.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Moody River",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\8. Moody River.flac",
+    "relpath": "albums\\Cycles\\8. Moody River.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "My Way Of Life",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Cycles\\9. My Way Of Life.flac",
+    "relpath": "albums\\Cycles\\9. My Way Of Life.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Daisies",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Daisies\\1. Daisies.flac",
+    "relpath": "albums\\Daisies\\1. Daisies.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Daisies (acoustic)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Daisies (Acoustic)\\1. Daisies (acoustic).flac",
+    "relpath": "albums\\Daisies (Acoustic)\\1. Daisies (acoustic).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Daisies (MK remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Daisies (MK Remix)\\1. Daisies (MK remix).flac",
+    "relpath": "albums\\Daisies (MK Remix)\\1. Daisies (MK remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Daisies (Oliver Heldens remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Daisies (Oliver Heldens Remix)\\1. Daisies (Oliver Heldens remix).flac",
+    "relpath": "albums\\Daisies (Oliver Heldens Remix)\\1. Daisies (Oliver Heldens remix).flac"
+  },
+  {
+    "artist": "Alan Walker feat. Au/Ra & Tomine Harket",
+    "title": "Darkside",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Darkside\\1. Darkside.flac",
+    "relpath": "albums\\Darkside\\1. Darkside.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Dead Girl!",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Dead Girl!\\1. Dead Girl!.flac",
+    "relpath": "albums\\Dead Girl!\\1. Dead Girl!.flac"
+  },
+  {
+    "artist": "Alan Walker & Sophia Somajo",
+    "title": "Diamond Heart",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Diamond Heart\\1. Diamond Heart.flac",
+    "relpath": "albums\\Diamond Heart\\1. Diamond Heart.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Diamond Heart (Dzeko Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Diamond Heart (Remixes)\\1. Diamond Heart (Dzeko Remix).flac",
+    "relpath": "albums\\Diamond Heart (Remixes)\\1. Diamond Heart (Dzeko Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Sophia Somajo",
+    "title": "Diamond Heart (Syn Cole Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Diamond Heart (Remixes)\\2. Diamond Heart (Syn Cole Remix).flac",
+    "relpath": "albums\\Diamond Heart (Remixes)\\2. Diamond Heart (Syn Cole Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Faded",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Different World\\15. Faded.flac",
+    "relpath": "albums\\Different World\\15. Faded.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "All Falls Down (Steve Aoki Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Digital Farm Animals; Walker_ All Falls Down (Remixes)\\1. All Falls Down (Steve Aoki Remix).flac",
+    "relpath": "albums\\Digital Farm Animals; Walker_ All Falls Down (Remixes)\\1. All Falls Down (Steve Aoki Remix).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Don\u2019t (Rick Ross Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Don\u2019t\\1. Don\u2019t (Rick Ross Remix).flac",
+    "relpath": "albums\\Don\u2019t\\1. Don\u2019t (Rick Ross Remix).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Be My Husband (Live From Glastonbury)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Don\u2019t\\2. Be My Husband (Live From Glastonbury).flac",
+    "relpath": "albums\\Don\u2019t\\2. Be My Husband (Live From Glastonbury).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Friends",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Don\u2019t\\2. Friends.flac",
+    "relpath": "albums\\Don\u2019t\\2. Friends.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Everything You Are",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Don\u2019t\\3. Everything You Are.flac",
+    "relpath": "albums\\Don\u2019t\\3. Everything You Are.flac"
+  },
+  {
+    "artist": "Alan Walker & Georgia Ku",
+    "title": "Don\u2019t You Hold Me Down",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Don\u2019t You Hold Me Down\\1. Don\u2019t You Hold Me Down.flac",
+    "relpath": "albums\\Don\u2019t You Hold Me Down\\1. Don\u2019t You Hold Me Down.flac"
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Somewhere In Brooklyn",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Doo-Wops & Hooligans\\11. Somewhere In Brooklyn.flac",
+    "relpath": "albums\\Doo-Wops & Hooligans\\11. Somewhere In Brooklyn.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Piece Of Me (Ti\u00ebsto Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Dream Dance, Vol. 47\\21. Piece Of Me (Ti\u00ebsto Radio Edit).flac",
+    "relpath": "albums\\Dream Dance, Vol. 47\\21. Piece Of Me (Ti\u00ebsto Radio Edit).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "E.T. (Ti\u00ebsto Remix: Club Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\E.T. Remixes\\1. E.T. (Ti\u00ebsto Remix_ Club Edit).flac",
+    "relpath": "albums\\E.T. Remixes\\1. E.T. (Ti\u00ebsto Remix_ Club Edit).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "E.T. (Benny Benassi Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\E.T. Remixes\\2. E.T. (Benny Benassi Radio Edit).flac",
+    "relpath": "albums\\E.T. Remixes\\2. E.T. (Benny Benassi Radio Edit).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "E.T. (Dave Aud\u00e9 Remix: Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\E.T. Remixes\\3. E.T. (Dave Aud\u00e9 Remix_ Radio Edit).flac",
+    "relpath": "albums\\E.T. Remixes\\3. E.T. (Dave Aud\u00e9 Remix_ Radio Edit).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "E.T. (Noisia Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\E.T. Remixes\\4. E.T. (Noisia Remix).flac",
+    "relpath": "albums\\E.T. Remixes\\4. E.T. (Noisia Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "E.T. (Johnson Somerset & John Monkman Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\E.T. Remixes\\5. E.T. (Johnson Somerset & John Monkman Remix).flac",
+    "relpath": "albums\\E.T. Remixes\\5. E.T. (Johnson Somerset & John Monkman Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "E.T.",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\E.T_\\1. E.T..flac",
+    "relpath": "albums\\E.T_\\1. E.T..flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Help Somebody",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Earth, Wind & Fire\\1. Help Somebody.flac",
+    "relpath": "albums\\Earth, Wind & Fire\\1. Help Somebody.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Moment Of Truth",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Earth, Wind & Fire\\2. Moment Of Truth.flac",
+    "relpath": "albums\\Earth, Wind & Fire\\2. Moment Of Truth.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Love Is Life",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Earth, Wind & Fire\\3. Love Is Life.flac",
+    "relpath": "albums\\Earth, Wind & Fire\\3. Love Is Life.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Fan The Fire",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Earth, Wind & Fire\\4. Fan The Fire.flac",
+    "relpath": "albums\\Earth, Wind & Fire\\4. Fan The Fire.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "C\u2019mon Children",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Earth, Wind & Fire\\5. C\u2019mon Children.flac",
+    "relpath": "albums\\Earth, Wind & Fire\\5. C\u2019mon Children.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "This World Today",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Earth, Wind & Fire\\6. This World Today.flac",
+    "relpath": "albums\\Earth, Wind & Fire\\6. This World Today.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Bad Tune",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Earth, Wind & Fire\\7. Bad Tune.flac",
+    "relpath": "albums\\Earth, Wind & Fire\\7. Bad Tune.flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Easy On Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Easy On Me\\1. Easy On Me.flac",
+    "relpath": "albums\\Easy On Me\\1. Easy On Me.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Electric",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Electric\\1. Electric.flac",
+    "relpath": "albums\\Electric\\1. Electric.flac"
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "Follow Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ellington_ Francis A. & Edward K_\\1. Follow Me.flac",
+    "relpath": "albums\\Ellington_ Francis A. & Edward K_\\1. Follow Me.flac"
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "Sunny",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ellington_ Francis A. & Edward K_\\2. Sunny.flac",
+    "relpath": "albums\\Ellington_ Francis A. & Edward K_\\2. Sunny.flac"
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "All I Need Is The Girl",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ellington_ Francis A. & Edward K_\\3. All I Need Is The Girl.flac",
+    "relpath": "albums\\Ellington_ Francis A. & Edward K_\\3. All I Need Is The Girl.flac"
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "Indian Summer",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ellington_ Francis A. & Edward K_\\4. Indian Summer.flac",
+    "relpath": "albums\\Ellington_ Francis A. & Edward K_\\4. Indian Summer.flac"
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "I Like The Sunrise",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ellington_ Francis A. & Edward K_\\5. I Like The Sunrise.flac",
+    "relpath": "albums\\Ellington_ Francis A. & Edward K_\\5. I Like The Sunrise.flac"
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "Yellow Days",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ellington_ Francis A. & Edward K_\\6. Yellow Days.flac",
+    "relpath": "albums\\Ellington_ Francis A. & Edward K_\\6. Yellow Days.flac"
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "Poor Butterfly",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ellington_ Francis A. & Edward K_\\7. Poor Butterfly.flac",
+    "relpath": "albums\\Ellington_ Francis A. & Edward K_\\7. Poor Butterfly.flac"
+  },
+  {
+    "artist": "Duke Ellington",
+    "title": "Come Back To Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ellington_ Francis A. & Edward K_\\8. Come Back To Me.flac",
+    "relpath": "albums\\Ellington_ Francis A. & Edward K_\\8. Come Back To Me.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Resilient",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Empowered\\1. Resilient.flac",
+    "relpath": "albums\\Empowered\\1. Resilient.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Roar",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Empowered\\2. Roar.flac",
+    "relpath": "albums\\Empowered\\2. Roar.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Firework",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Empowered\\3. Firework.flac",
+    "relpath": "albums\\Empowered\\3. Firework.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Fingerprints",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Empowered\\4. Fingerprints.flac",
+    "relpath": "albums\\Empowered\\4. Fingerprints.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "What Makes A Woman",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Empowered\\6. What Makes A Woman.flac",
+    "relpath": "albums\\Empowered\\6. What Makes A Woman.flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker & Ahrix",
+    "title": "End Of Time (VIZE Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\End Of Time (Remixes)\\2. End Of Time (VIZE Remix).flac",
+    "relpath": "albums\\End Of Time (Remixes)\\2. End Of Time (VIZE Remix).flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker & Ahrix",
+    "title": "End Of Time (MOTi Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\End Of Time (Remixes)\\3. End Of Time (MOTi Remix).flac",
+    "relpath": "albums\\End Of Time (Remixes)\\3. End Of Time (MOTi Remix).flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker & Ahrix",
+    "title": "End Of Time",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\End Of Time (Remixes)\\4. End Of Time.flac",
+    "relpath": "albums\\End Of Time (Remixes)\\4. End Of Time.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Faded",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Faded\\1. Faded.flac",
+    "relpath": "albums\\Faded\\1. Faded.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Faded (Instrumental)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Faded\\2. Faded (Instrumental).flac",
+    "relpath": "albums\\Faded\\2. Faded (Instrumental).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Faded (Restrung)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Faded\\3. Faded (Restrung).flac",
+    "relpath": "albums\\Faded\\3. Faded (Restrung).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Faded (Piano Version)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Faded\\4. Faded (Piano Version).flac",
+    "relpath": "albums\\Faded\\4. Faded (Piano Version).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Faded (Stereo Blitz remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Faded (Stereo Blitz Remix)\\1. Faded (Stereo Blitz remix).flac",
+    "relpath": "albums\\Faded (Stereo Blitz Remix)\\1. Faded (Stereo Blitz remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Fake A Smile (R3HAB Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Fake A Smile (Remixes)\\1. Fake A Smile (R3HAB Remix).flac",
+    "relpath": "albums\\Fake A Smile (Remixes)\\1. Fake A Smile (R3HAB Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Fake A Smile (K-391 Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Fake A Smile (Remixes)\\2. Fake A Smile (K-391 Remix).flac",
+    "relpath": "albums\\Fake A Smile (Remixes)\\2. Fake A Smile (K-391 Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Fake A Smile (Syn Cole Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Fake A Smile (Remixes)\\3. Fake A Smile (Syn Cole Remix).flac",
+    "relpath": "albums\\Fake A Smile (Remixes)\\3. Fake A Smile (Syn Cole Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Fake A Smile (Hellberg Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Fake A Smile (Remixes)\\4. Fake A Smile (Hellberg Remix).flac",
+    "relpath": "albums\\Fake A Smile (Remixes)\\4. Fake A Smile (Hellberg Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Fake A Smile",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Fake A Smile (Remixes)\\5. Fake A Smile.flac",
+    "relpath": "albums\\Fake A Smile (Remixes)\\5. Fake A Smile.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Up N' Down",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Femme Fatale\\13. Up N' Down.flac",
+    "relpath": "albums\\Femme Fatale\\13. Up N' Down.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "He About To Lose Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Femme Fatale\\14. He About To Lose Me.flac",
+    "relpath": "albums\\Femme Fatale\\14. He About To Lose Me.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Selfish",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Femme Fatale\\15. Selfish.flac",
+    "relpath": "albums\\Femme Fatale\\15. Selfish.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Don't Keep Me Waiting",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Femme Fatale\\16. Don't Keep Me Waiting.flac",
+    "relpath": "albums\\Femme Fatale\\16. Don't Keep Me Waiting.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Firework",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Firework\\1. Firework.flac",
+    "relpath": "albums\\Firework\\1. Firework.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Force",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Force\\1. Force.flac",
+    "relpath": "albums\\Force\\1. Force.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "We\u2019re Almost There",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\1. We\u2019re Almost There.flac",
+    "relpath": "albums\\Forever, Michael\\1. We\u2019re Almost There.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "I\u2019ll Come Home To You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\10. I\u2019ll Come Home To You.flac",
+    "relpath": "albums\\Forever, Michael\\10. I\u2019ll Come Home To You.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Take Me Back",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\2. Take Me Back.flac",
+    "relpath": "albums\\Forever, Michael\\2. Take Me Back.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "One Day In Your Life",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\3. One Day In Your Life.flac",
+    "relpath": "albums\\Forever, Michael\\3. One Day In Your Life.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Cinderella Stay Awhile",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\4. Cinderella Stay Awhile.flac",
+    "relpath": "albums\\Forever, Michael\\4. Cinderella Stay Awhile.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "We\u2019ve Got Forever",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\5. We\u2019ve Got Forever.flac",
+    "relpath": "albums\\Forever, Michael\\5. We\u2019ve Got Forever.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Just A Little Bit Of You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\6. Just A Little Bit Of You.flac",
+    "relpath": "albums\\Forever, Michael\\6. Just A Little Bit Of You.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "You Are There",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\7. You Are There.flac",
+    "relpath": "albums\\Forever, Michael\\7. You Are There.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Dapper-Dan",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\8. Dapper-Dan.flac",
+    "relpath": "albums\\Forever, Michael\\8. Dapper-Dan.flac"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Dear Michael",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Forever, Michael\\9. Dear Michael.flac",
+    "relpath": "albums\\Forever, Michael\\9. Dear Michael.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Body And Soul",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Frankly Sentimental\\1. Body And Soul.flac",
+    "relpath": "albums\\Frankly Sentimental\\1. Body And Soul.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Laura",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Frankly Sentimental\\2. Laura.flac",
+    "relpath": "albums\\Frankly Sentimental\\2. Laura.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Fools Rush In",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Frankly Sentimental\\3. Fools Rush In.flac",
+    "relpath": "albums\\Frankly Sentimental\\3. Fools Rush In.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Spring Is Here",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Frankly Sentimental\\4. Spring Is Here.flac",
+    "relpath": "albums\\Frankly Sentimental\\4. Spring Is Here.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "One For My Baby",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Frankly Sentimental\\5. One For My Baby.flac",
+    "relpath": "albums\\Frankly Sentimental\\5. One For My Baby.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Guess I'll Hang My Tears Out To Dry",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Frankly Sentimental\\6. Guess I'll Hang My Tears Out To Dry.flac",
+    "relpath": "albums\\Frankly Sentimental\\6. Guess I'll Hang My Tears Out To Dry.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "When You Awake",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Frankly Sentimental\\7. When You Awake.flac",
+    "relpath": "albums\\Frankly Sentimental\\7. When You Awake.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "It Never Entered My Mind",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Frankly Sentimental\\8. It Never Entered My Mind.flac",
+    "relpath": "albums\\Frankly Sentimental\\8. It Never Entered My Mind.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Galway Girl (Martin Jensen remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Galway Girl (Martin Jensen Remix)\\1. Galway Girl (Martin Jensen remix).flac",
+    "relpath": "albums\\Galway Girl (Martin Jensen Remix)\\1. Galway Girl (Martin Jensen remix).flac"
+  },
+  {
+    "artist": "Au",
+    "title": "Ghost",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ghost\\1. Ghost.flac",
+    "relpath": "albums\\Ghost\\1. Ghost.flac"
+  },
+  {
+    "artist": "Au",
+    "title": "Ghost (Joe Stone Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ghost (Remixes)\\1. Ghost (Joe Stone Remix).flac",
+    "relpath": "albums\\Ghost (Remixes)\\1. Ghost (Joe Stone Remix).flac"
+  },
+  {
+    "artist": "Au",
+    "title": "Ghost (Basic Tape Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ghost (Remixes)\\2. Ghost (Basic Tape Remix).flac",
+    "relpath": "albums\\Ghost (Remixes)\\2. Ghost (Basic Tape Remix).flac"
+  },
+  {
+    "artist": "Au",
+    "title": "Ghost (The Him Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ghost (Remixes)\\3. Ghost (The Him Remix).flac",
+    "relpath": "albums\\Ghost (Remixes)\\3. Ghost (The Him Remix).flac"
+  },
+  {
+    "artist": "Coldplay",
+    "title": "O",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ghost Stories\\9. O.flac",
+    "relpath": "albums\\Ghost Stories\\9. O.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Gimme More (Album Version)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Gimme More\\1. Gimme More (Album Version).flac",
+    "relpath": "albums\\Gimme More\\1. Gimme More (Album Version).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Gimme More (Kaskade Radio Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Gimme More\\2. Gimme More (Kaskade Radio Mix).flac",
+    "relpath": "albums\\Gimme More\\2. Gimme More (Kaskade Radio Mix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Gimme More (Paul Oakenfold Radio Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Gimme More (Remixes)\\1. Gimme More (Paul Oakenfold Radio Mix).flac",
+    "relpath": "albums\\Gimme More (Remixes)\\1. Gimme More (Paul Oakenfold Radio Mix).flac"
+  },
+  {
+    "artist": "Britney Spears Feat. Amanda Blank",
+    "title": "Gimme More (Eli Escobar & Doug Grays\u00f3n Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Gimme More (Remixes)\\3. Gimme More (Eli Escobar & Doug Grays\u00f3n Remix).flac",
+    "relpath": "albums\\Gimme More (Remixes)\\3. Gimme More (Eli Escobar & Doug Grays\u00f3n Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Gimme More (Paul Van Dyk Club Mix) (Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Gimme More (Remixes)\\4. Gimme More (Paul Van Dyk Club Mix) (Radio Edit).flac",
+    "relpath": "albums\\Gimme More (Remixes)\\4. Gimme More (Paul Van Dyk Club Mix) (Radio Edit).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Gimme More (Junior Vasquez & Johnny Vicious Club Remix) (Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Gimme More (Remixes)\\5. Gimme More (Junior Vasquez & Johnny Vicious Club Remix) (Radio Edit).flac",
+    "relpath": "albums\\Gimme More (Remixes)\\5. Gimme More (Junior Vasquez & Johnny Vicious Club Remix) (Radio Edit).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Happier (Acoustic)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Happier\\2. Happier (Acoustic).flac",
+    "relpath": "albums\\Happier\\2. Happier (Acoustic).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Harleys in Hawaii",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Harleys In Hawaii\\1. Harleys in Hawaii.flac",
+    "relpath": "albums\\Harleys In Hawaii\\1. Harleys in Hawaii.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Harleys in Hawaii (KANDY remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Harleys In Hawaii (KANDY Remix)\\1. Harleys in Hawaii (KANDY remix).flac",
+    "relpath": "albums\\Harleys In Hawaii (KANDY Remix)\\1. Harleys in Hawaii (KANDY remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Harleys in Hawaii (Win and Woo remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Harleys In Hawaii (Win And Woo Remix)\\1. Harleys in Hawaii (Win and Woo remix).flac",
+    "relpath": "albums\\Harleys In Hawaii (Win And Woo Remix)\\1. Harleys in Hawaii (Win and Woo remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Heading Home",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Heading Home\\1. Heading Home.flac",
+    "relpath": "albums\\Heading Home\\1. Heading Home.flac"
+  },
+  {
+    "artist": "Alan Walker & Ruben",
+    "title": "Heading_Home_Demo2016.Wav",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Heading Home\\2. Heading_Home_Demo2016.Wav.flac",
+    "relpath": "albums\\Heading Home\\2. Heading_Home_Demo2016.Wav.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Heading Home (Live At Ch\u00e2teau De Fontainebleau)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Heading Home (Live At Ch\u00e2teau De Fontainebleau)\\1. Heading Home (Live At Ch\u00e2teau De Fontainebleau).flac",
+    "relpath": "albums\\Heading Home (Live At Ch\u00e2teau De Fontainebleau)\\1. Heading Home (Live At Ch\u00e2teau De Fontainebleau).flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Hometown Glory (High Contrast Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Hometown Glory\\2. Hometown Glory (High Contrast Remix).flac",
+    "relpath": "albums\\Hometown Glory\\2. Hometown Glory (High Contrast Remix).flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Hometown Glory (High Contrast Remix) (Instrumental)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Hometown Glory\\3. Hometown Glory (High Contrast Remix) (Instrumental).flac",
+    "relpath": "albums\\Hometown Glory\\3. Hometown Glory (High Contrast Remix) (Instrumental).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Hot N Cold (rock version)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Hot N Cold\\1. Hot N Cold (rock version).flac",
+    "relpath": "albums\\Hot N Cold\\1. Hot N Cold (rock version).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Hot N Cold",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Hot N Cold\\1. Hot N Cold.flac",
+    "relpath": "albums\\Hot N Cold\\1. Hot N Cold.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Hot N Cold (Innerpartysystem Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Hot N Cold\\2. Hot N Cold (Innerpartysystem Remix).flac",
+    "relpath": "albums\\Hot N Cold\\2. Hot N Cold (Innerpartysystem Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Hot N Cold (Manhattan Clique Remix Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Hot N Cold\\3. Hot N Cold (Manhattan Clique Remix Radio Edit).flac",
+    "relpath": "albums\\Hot N Cold\\3. Hot N Cold (Manhattan Clique Remix Radio Edit).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "How Would You Feel (Paean)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\How Would You Feel (Paean)\\1. How Would You Feel (Paean).flac",
+    "relpath": "albums\\How Would You Feel (Paean)\\1. How Would You Feel (Paean).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "I Don\u2019t Care (acoustic)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Don\u2019t Care (Acoustic)\\1. I Don\u2019t Care (acoustic).flac",
+    "relpath": "albums\\I Don\u2019t Care (Acoustic)\\1. I Don\u2019t Care (acoustic).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "I Kissed A Girl",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Kissed A Girl\\1. I Kissed A Girl.flac",
+    "relpath": "albums\\I Kissed A Girl\\1. I Kissed A Girl.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "I Kissed A Girl (Jason Nevins Funkrokr Extended Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Kissed A Girl\\2. I Kissed A Girl (Jason Nevins Funkrokr Extended Mix).flac",
+    "relpath": "albums\\I Kissed A Girl\\2. I Kissed A Girl (Jason Nevins Funkrokr Extended Mix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "I Kissed A Girl (Dr. Luke & Benny Blanco Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Kissed A Girl\\3. I Kissed A Girl (Dr. Luke & Benny Blanco Remix).flac",
+    "relpath": "albums\\I Kissed A Girl\\3. I Kissed A Girl (Dr. Luke & Benny Blanco Remix).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "I\u2019m Getting Sentimental Over You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\1. I\u2019m Getting Sentimental Over You.flac",
+    "relpath": "albums\\I Remember Tommy\\1. I\u2019m Getting Sentimental Over You.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Polka Dots And Moonbeams",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\10. Polka Dots And Moonbeams.flac",
+    "relpath": "albums\\I Remember Tommy\\10. Polka Dots And Moonbeams.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "It Started All Over Again",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\11. It Started All Over Again.flac",
+    "relpath": "albums\\I Remember Tommy\\11. It Started All Over Again.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "The One I Love Belongs To Somebody Else",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\12. The One I Love Belongs To Somebody Else.flac",
+    "relpath": "albums\\I Remember Tommy\\12. The One I Love Belongs To Somebody Else.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Reprise: I\u2019m Getting Sentimental Over You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\13. Reprise_ I\u2019m Getting Sentimental Over You.flac",
+    "relpath": "albums\\I Remember Tommy\\13. Reprise_ I\u2019m Getting Sentimental Over You.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Imagination",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\2. Imagination.flac",
+    "relpath": "albums\\I Remember Tommy\\2. Imagination.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "There Are Such Things",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\3. There Are Such Things.flac",
+    "relpath": "albums\\I Remember Tommy\\3. There Are Such Things.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "East Of The Sun (And West Of The Moon)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\4. East Of The Sun (And West Of The Moon).flac",
+    "relpath": "albums\\I Remember Tommy\\4. East Of The Sun (And West Of The Moon).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Daybreak",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\5. Daybreak.flac",
+    "relpath": "albums\\I Remember Tommy\\5. Daybreak.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Without A Song",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\6. Without A Song.flac",
+    "relpath": "albums\\I Remember Tommy\\6. Without A Song.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "I\u2019ll Be Seeing You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\7. I\u2019ll Be Seeing You.flac",
+    "relpath": "albums\\I Remember Tommy\\7. I\u2019ll Be Seeing You.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Take Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\8. Take Me.flac",
+    "relpath": "albums\\I Remember Tommy\\8. Take Me.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "It\u2019s Always You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\I Remember Tommy\\9. It\u2019s Always You.flac",
+    "relpath": "albums\\I Remember Tommy\\9. It\u2019s Always You.flac"
+  },
+  {
+    "artist": "K\u2010391 feat. Alan Walker, Julie Bergan & SeungRi",
+    "title": "Ignite",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ignite\\1. Ignite.flac",
+    "relpath": "albums\\Ignite\\1. Ignite.flac"
+  },
+  {
+    "artist": "Alan Walker feat. K\u2010391",
+    "title": "Ignite (instrumental)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ignite (Instrumental)\\1. Ignite (instrumental).flac",
+    "relpath": "albums\\Ignite (Instrumental)\\1. Ignite (instrumental).flac"
+  },
+  {
+    "artist": "K-391",
+    "title": "Ignite (Hellberg Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ignite (Remixes)\\1. Ignite (Hellberg Remix).flac",
+    "relpath": "albums\\Ignite (Remixes)\\1. Ignite (Hellberg Remix).flac"
+  },
+  {
+    "artist": "K-391",
+    "title": "Ignite (Different Heaven Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ignite (Remixes)\\2. Ignite (Different Heaven Remix).flac",
+    "relpath": "albums\\Ignite (Remixes)\\2. Ignite (Different Heaven Remix).flac"
+  },
+  {
+    "artist": "K-391",
+    "title": "Ignite (Ahrix Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ignite (Remixes)\\3. Ignite (Ahrix Remix).flac",
+    "relpath": "albums\\Ignite (Remixes)\\3. Ignite (Ahrix Remix).flac"
+  },
+  {
+    "artist": "K-391",
+    "title": "Ignite (Raiden Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ignite (Remixes)\\4. Ignite (Raiden Remix).flac",
+    "relpath": "albums\\Ignite (Remixes)\\4. Ignite (Raiden Remix).flac"
+  },
+  {
+    "artist": "K-391",
+    "title": "Ignite (Hollaphonic Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ignite (Remixes)\\5. Ignite (Hollaphonic Remix).flac",
+    "relpath": "albums\\Ignite (Remixes)\\5. Ignite (Hollaphonic Remix).flac"
+  },
+  {
+    "artist": "K-391",
+    "title": "Ignite (Panta.Q Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ignite (Remixes)\\6. Ignite (Panta.Q Remix).flac",
+    "relpath": "albums\\Ignite (Remixes)\\6. Ignite (Panta.Q Remix).flac"
+  },
+  {
+    "artist": "Britney Spears Feat. Madonna",
+    "title": "Me Against The Music (Rishi Rich's Desi Kulcha Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\In The Zone\\13. Me Against The Music (Rishi Rich's Desi Kulcha Remix).flac",
+    "relpath": "albums\\In The Zone\\13. Me Against The Music (Rishi Rich's Desi Kulcha Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Toxic (Lenny Bertoldo Radio Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\In The Zone\\3. Toxic (Lenny Bertoldo Radio Mix).flac",
+    "relpath": "albums\\In The Zone\\3. Toxic (Lenny Bertoldo Radio Mix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Me Against The Music (Bloodshy & Avant\u2019s Chix Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\In The Zone\\4. Me Against The Music (Bloodshy & Avant\u2019s Chix Mix).flac",
+    "relpath": "albums\\In The Zone\\4. Me Against The Music (Bloodshy & Avant\u2019s Chix Mix).flac"
+  },
+  {
+    "artist": "K-391",
+    "title": "End Of Time (Tribute Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\K-391; Walker_ End Of Time (Remixes)\\1. End Of Time (Tribute Remix).flac",
+    "relpath": "albums\\K-391; Walker_ End Of Time (Remixes)\\1. End Of Time (Tribute Remix).flac"
+  },
+  {
+    "artist": "VIZE",
+    "title": "Space Melody (Edward Artemyev)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Kontor_ Top Of The Clubs, Volume 89\\23. Space Melody (Edward Artemyev).flac",
+    "relpath": "albums\\Kontor_ Top Of The Clubs, Volume 89\\23. Space Melody (Edward Artemyev).flac"
+  },
+  {
+    "artist": "Mako",
+    "title": "Legends Never Die (Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Legends Never Die (Remix)\\1. Legends Never Die (Remix).flac",
+    "relpath": "albums\\Legends Never Die (Remix)\\1. Legends Never Die (Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Lily (Zuliando Abi Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Lily\\1. Lily (Zuliando Abi Remix).flac",
+    "relpath": "albums\\Lily\\1. Lily (Zuliando Abi Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Live Fast (PUBGM)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Live Fast (PUBGM)\\1. Live Fast (PUBGM).flac",
+    "relpath": "albums\\Live Fast (PUBGM)\\1. Live Fast (PUBGM).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Live Fast (Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Live Fast (PUBGM)\\2. Live Fast (Remix).flac",
+    "relpath": "albums\\Live Fast (PUBGM)\\2. Live Fast (Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Live Fast (Instrumental)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Live Fast (PUBGM)\\3. Live Fast (Instrumental).flac",
+    "relpath": "albums\\Live Fast (PUBGM)\\3. Live Fast (Instrumental).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Firefly (Bravado Dubstep Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Loose Change\\8. Firefly (Bravado Dubstep Remix).flac",
+    "relpath": "albums\\Loose Change\\8. Firefly (Bravado Dubstep Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Make Me\u2026 (Cash Cash Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Make Me\u2026 The Remixes\\1. Make Me\u2026 (Cash Cash Remix).flac",
+    "relpath": "albums\\Make Me\u2026 The Remixes\\1. Make Me\u2026 (Cash Cash Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Make Me\u2026 (Marc Stout & Tony Arzadon Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Make Me\u2026 The Remixes\\2. Make Me\u2026 (Marc Stout & Tony Arzadon Remix).flac",
+    "relpath": "albums\\Make Me\u2026 The Remixes\\2. Make Me\u2026 (Marc Stout & Tony Arzadon Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Make Me\u2026 (Tom Budin Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Make Me\u2026 The Remixes\\3. Make Me\u2026 (Tom Budin Remix).flac",
+    "relpath": "albums\\Make Me\u2026 The Remixes\\3. Make Me\u2026 (Tom Budin Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Make Me\u2026 (Kris Kross Amsterdam Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Make Me\u2026 The Remixes\\4. Make Me\u2026 (Kris Kross Amsterdam Remix).flac",
+    "relpath": "albums\\Make Me\u2026 The Remixes\\4. Make Me\u2026 (Kris Kross Amsterdam Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Make Me\u2026 (FTampa Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Make Me\u2026 The Remixes\\5. Make Me\u2026 (FTampa Remix).flac",
+    "relpath": "albums\\Make Me\u2026 The Remixes\\5. Make Me\u2026 (FTampa Remix).flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Victorious",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\1. Victorious.flac",
+    "relpath": "albums\\Metamorph\\1. Victorious.flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "In My Blood",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\10. In My Blood.flac",
+    "relpath": "albums\\Metamorph\\10. In My Blood.flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Fighter",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\11. Fighter.flac",
+    "relpath": "albums\\Metamorph\\11. Fighter.flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Head Up",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\2. Head Up.flac",
+    "relpath": "albums\\Metamorph\\2. Head Up.flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Top Of The World",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\3. Top Of The World.flac",
+    "relpath": "albums\\Metamorph\\3. Top Of The World.flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Pull The Cord",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\4. Pull The Cord.flac",
+    "relpath": "albums\\Metamorph\\4. Pull The Cord.flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Good To Be Alive",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\5. Good To Be Alive.flac",
+    "relpath": "albums\\Metamorph\\5. Good To Be Alive.flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Alarm",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\6. Alarm.flac",
+    "relpath": "albums\\Metamorph\\6. Alarm.flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Big Dreams (Feat. FITZ)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\7. Big Dreams (Feat. FITZ).flac",
+    "relpath": "albums\\Metamorph\\7. Big Dreams (Feat. FITZ).flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Enemies",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\8. Enemies.flac",
+    "relpath": "albums\\Metamorph\\8. Enemies.flac"
+  },
+  {
+    "artist": "The Score",
+    "title": "Skeletons",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Metamorph\\9. Skeletons.flac",
+    "relpath": "albums\\Metamorph\\9. Skeletons.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Mood Ring (By Demand) (Pride Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Mood Ring (By Demand) (Remixes)\\1. Mood Ring (By Demand) (Pride Remix).flac",
+    "relpath": "albums\\Mood Ring (By Demand) (Remixes)\\1. Mood Ring (By Demand) (Pride Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Mood Ring (By Demand) (Ape Drums Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Mood Ring (By Demand) (Remixes)\\2. Mood Ring (By Demand) (Ape Drums Remix).flac",
+    "relpath": "albums\\Mood Ring (By Demand) (Remixes)\\2. Mood Ring (By Demand) (Ape Drums Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "My Only Wish (This Year)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\My Only Wish (This Year)\\1. My Only Wish (This Year).flac",
+    "relpath": "albums\\My Only Wish (This Year)\\1. My Only Wish (This Year).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "My Prerogative (X-Press 2 Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\My Prerogative\\2. My Prerogative (X-Press 2 Radio Edit).flac",
+    "relpath": "albums\\My Prerogative\\2. My Prerogative (X-Press 2 Radio Edit).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "My Prerogative (X-Press 2 Vocal Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\My Prerogative\\3. My Prerogative (X-Press 2 Vocal Mix).flac",
+    "relpath": "albums\\My Prerogative\\3. My Prerogative (X-Press 2 Vocal Mix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "My Prerogative (Armand Van Helden Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\My Prerogative\\4. My Prerogative (Armand Van Helden Remix).flac",
+    "relpath": "albums\\My Prerogative\\4. My Prerogative (Armand Van Helden Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Never Really Over",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Never Really Over\\1. Never Really Over.flac",
+    "relpath": "albums\\Never Really Over\\1. Never Really Over.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Never Really Over (R3HAB remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Never Really Over (R3HAB Remix)\\1. Never Really Over (R3HAB remix).flac",
+    "relpath": "albums\\Never Really Over (R3HAB Remix)\\1. Never Really Over (R3HAB remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Never Really Over (Syn Cole remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Never Really Over (Syn Cole Remix)\\1. Never Really Over (Syn Cole remix).flac",
+    "relpath": "albums\\Never Really Over (Syn Cole Remix)\\1. Never Really Over (Syn Cole remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Never Really Over (Wow & Flutter remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Never Really Over (Wow & Flutter Remix)\\1. Never Really Over (Wow & Flutter remix).flac",
+    "relpath": "albums\\Never Really Over (Wow & Flutter Remix)\\1. Never Really Over (Wow & Flutter remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Never Worn White",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Never Worn White\\1. Never Worn White.flac",
+    "relpath": "albums\\Never Worn White\\1. Never Worn White.flac"
+  },
+  {
+    "artist": "Milly",
+    "title": "No Te Enamores (Alan Walker Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\No Te Enamores (Alan Walker Remix)\\1. No Te Enamores (Alan Walker Remix).flac",
+    "relpath": "albums\\No Te Enamores (Alan Walker Remix)\\1. No Te Enamores (Alan Walker Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Swish Swish",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\NOW That\u2019s What I Call Running 2018\\14. Swish Swish.flac",
+    "relpath": "albums\\NOW That\u2019s What I Call Running 2018\\14. Swish Swish.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "You Will Be My Music",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ol\u2019 Blue Eyes Is Back\\1. You Will Be My Music.flac",
+    "relpath": "albums\\Ol\u2019 Blue Eyes Is Back\\1. You Will Be My Music.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "You\u2019re So Right (For What\u2019s Wrong In My Life)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ol\u2019 Blue Eyes Is Back\\2. You\u2019re So Right (For What\u2019s Wrong In My Life).flac",
+    "relpath": "albums\\Ol\u2019 Blue Eyes Is Back\\2. You\u2019re So Right (For What\u2019s Wrong In My Life).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Winners",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ol\u2019 Blue Eyes Is Back\\3. Winners.flac",
+    "relpath": "albums\\Ol\u2019 Blue Eyes Is Back\\3. Winners.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Nobody Wins",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ol\u2019 Blue Eyes Is Back\\4. Nobody Wins.flac",
+    "relpath": "albums\\Ol\u2019 Blue Eyes Is Back\\4. Nobody Wins.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Send In The Clowns",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ol\u2019 Blue Eyes Is Back\\5. Send In The Clowns.flac",
+    "relpath": "albums\\Ol\u2019 Blue Eyes Is Back\\5. Send In The Clowns.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Dream Away",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ol\u2019 Blue Eyes Is Back\\6. Dream Away.flac",
+    "relpath": "albums\\Ol\u2019 Blue Eyes Is Back\\6. Dream Away.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Let Me Try Again (Laisse Moi Le Temps)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ol\u2019 Blue Eyes Is Back\\7. Let Me Try Again (Laisse Moi Le Temps).flac",
+    "relpath": "albums\\Ol\u2019 Blue Eyes Is Back\\7. Let Me Try Again (Laisse Moi Le Temps).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "There Used To Be A Ballpark",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ol\u2019 Blue Eyes Is Back\\8. There Used To Be A Ballpark.flac",
+    "relpath": "albums\\Ol\u2019 Blue Eyes Is Back\\8. There Used To Be A Ballpark.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Noah",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ol\u2019 Blue Eyes Is Back\\9. Noah.flac",
+    "relpath": "albums\\Ol\u2019 Blue Eyes Is Back\\9. Noah.flac"
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "title": "On My Way",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\On My Way\\1. On My Way.flac",
+    "relpath": "albums\\On My Way\\1. On My Way.flac"
+  },
+  {
+    "artist": "Alan Walker, Sabrina Carpenter & Farruko",
+    "title": "On My Way (Da Tweekaz remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\On My Way (Da Tweekaz Remix)\\1. On My Way (Da Tweekaz remix).flac",
+    "relpath": "albums\\On My Way (Da Tweekaz Remix)\\1. On My Way (Da Tweekaz remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Ooh La La",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ooh La La\\1. Ooh La La.flac",
+    "relpath": "albums\\Ooh La La\\1. Ooh La La.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Part of Me (Jacques Lu Cont\u2019s Thin White Duke mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Part Of Me (Jacques Lu Cont\u2019s Thin White Duke Mix)\\1. Part of Me (Jacques Lu Cont\u2019s Thin White Duke mix).flac",
+    "relpath": "albums\\Part Of Me (Jacques Lu Cont\u2019s Thin White Duke Mix)\\1. Part of Me (Jacques Lu Cont\u2019s Thin White Duke mix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Part Of Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Part Of Me (Remix)\\1. Part Of Me.flac",
+    "relpath": "albums\\Part Of Me (Remix)\\1. Part Of Me.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Part Of Me (Jaques Lu Cont\u2019s Thin White Duke Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Part Of Me (Remix)\\2. Part Of Me (Jaques Lu Cont\u2019s Thin White Duke Mix).flac",
+    "relpath": "albums\\Part Of Me (Remix)\\2. Part Of Me (Jaques Lu Cont\u2019s Thin White Duke Mix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Part Of Me (Jacques Lu Cont\u2019s Thin White Duke Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Part Of Me (Remix)\\3. Part Of Me (Jacques Lu Cont\u2019s Thin White Duke Radio Edit).flac",
+    "relpath": "albums\\Part Of Me (Remix)\\3. Part Of Me (Jacques Lu Cont\u2019s Thin White Duke Radio Edit).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Part Of Me (Instrumental)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Part Of Me (Remix)\\4. Part Of Me (Instrumental).flac",
+    "relpath": "albums\\Part Of Me (Remix)\\4. Part Of Me (Instrumental).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Perfect Symphony",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Perfect Symphony\\1. Perfect Symphony.flac",
+    "relpath": "albums\\Perfect Symphony\\1. Perfect Symphony.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "I Kissed A Girl",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Perry_ MTV Unplugged\\1. I Kissed A Girl.flac",
+    "relpath": "albums\\Perry_ MTV Unplugged\\1. I Kissed A Girl.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Ur So Gay",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Perry_ MTV Unplugged\\2. Ur So Gay.flac",
+    "relpath": "albums\\Perry_ MTV Unplugged\\2. Ur So Gay.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Hackensack",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Perry_ MTV Unplugged\\3. Hackensack.flac",
+    "relpath": "albums\\Perry_ MTV Unplugged\\3. Hackensack.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Thinking Of You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Perry_ MTV Unplugged\\4. Thinking Of You.flac",
+    "relpath": "albums\\Perry_ MTV Unplugged\\4. Thinking Of You.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Lost",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Perry_ MTV Unplugged\\5. Lost.flac",
+    "relpath": "albums\\Perry_ MTV Unplugged\\5. Lost.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Waking Up In Vegas",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Perry_ MTV Unplugged\\6. Waking Up In Vegas.flac",
+    "relpath": "albums\\Perry_ MTV Unplugged\\6. Waking Up In Vegas.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Brick By Brick",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Perry_ MTV Unplugged\\7. Brick By Brick.flac",
+    "relpath": "albums\\Perry_ MTV Unplugged\\7. Brick By Brick.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Thinking Of You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Perry_ Thinking Of You\\1. Thinking Of You.flac",
+    "relpath": "albums\\Perry_ Thinking Of You\\1. Thinking Of You.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Photograph (Felix Jaehn remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Photograph (Felix Jaehn Remix)\\1. Photograph (Felix Jaehn remix).flac",
+    "relpath": "albums\\Photograph (Felix Jaehn Remix)\\1. Photograph (Felix Jaehn remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Piece Of Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Piece Of Me (Remixes)\\1. Piece Of Me.flac",
+    "relpath": "albums\\Piece Of Me (Remixes)\\1. Piece Of Me.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Piece Of Me (B\u00f6z O L\u00f6 Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Piece Of Me (Remixes)\\2. Piece Of Me (B\u00f6z O L\u00f6 Remix).flac",
+    "relpath": "albums\\Piece Of Me (Remixes)\\2. Piece Of Me (B\u00f6z O L\u00f6 Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Piece Of Me (Junior Vasquez And Johnny Vicious Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Piece Of Me (Remixes)\\4. Piece Of Me (Junior Vasquez And Johnny Vicious Radio Edit).flac",
+    "relpath": "albums\\Piece Of Me (Remixes)\\4. Piece Of Me (Junior Vasquez And Johnny Vicious Radio Edit).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Piece Of Me (Friscia And Lamboy Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Piece Of Me (Remixes)\\5. Piece Of Me (Friscia And Lamboy Radio Edit).flac",
+    "relpath": "albums\\Piece Of Me (Remixes)\\5. Piece Of Me (Friscia And Lamboy Radio Edit).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Piece Of Me (Sly And Robbie Reggae Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Piece Of Me (Remixes)\\6. Piece Of Me (Sly And Robbie Reggae Remix).flac",
+    "relpath": "albums\\Piece Of Me (Remixes)\\6. Piece Of Me (Sly And Robbie Reggae Remix).flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker, Martin Tungevaag feat. Mangoo",
+    "title": "Play",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Play\\1. Play.flac",
+    "relpath": "albums\\Play\\1. Play.flac"
+  },
+  {
+    "artist": "K-391",
+    "title": "Play (Norda & K-391 Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Play (Remixes, Vol. 1)\\1. Play (Norda & K-391 Remix).flac",
+    "relpath": "albums\\Play (Remixes, Vol. 1)\\1. Play (Norda & K-391 Remix).flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker And Tungevaag",
+    "title": "Play (Niya & Alan Walker Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Play (Remixes, Vol. 1)\\2. Play (Niya & Alan Walker Remix).flac",
+    "relpath": "albums\\Play (Remixes, Vol. 1)\\2. Play (Niya & Alan Walker Remix).flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker And Tungevaag",
+    "title": "Play (B2a, Anklebreaker & Tungevaag Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Play (Remixes, Vol. 1)\\3. Play (B2a, Anklebreaker & Tungevaag Remix).flac",
+    "relpath": "albums\\Play (Remixes, Vol. 1)\\3. Play (B2a, Anklebreaker & Tungevaag Remix).flac"
+  },
+  {
+    "artist": "K-391",
+    "title": "Play (Tobu Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Play (Remixes, Vol. 2)\\1. Play (Tobu Remix).flac",
+    "relpath": "albums\\Play (Remixes, Vol. 2)\\1. Play (Tobu Remix).flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker & Tungevaag Feat. Mangoo",
+    "title": "Play (ElementD Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Play (Remixes, Vol. 2)\\2. Play (ElementD Remix).flac",
+    "relpath": "albums\\Play (Remixes, Vol. 2)\\2. Play (ElementD Remix).flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker & Tungevaag Feat. Mangoo",
+    "title": "Play (G5SH Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Play (Remixes, Vol. 2)\\3. Play (G5SH Remix).flac",
+    "relpath": "albums\\Play (Remixes, Vol. 2)\\3. Play (G5SH Remix).flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker & Tungevaag Feat. Mangoo",
+    "title": "Play (Di Young Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Play (Remixes, Vol. 2)\\4. Play (Di Young Remix).flac",
+    "relpath": "albums\\Play (Remixes, Vol. 2)\\4. Play (Di Young Remix).flac"
+  },
+  {
+    "artist": "K\u2010391, Alan Walker & Tungevaag Feat. Mangoo",
+    "title": "Play (INFANCTUS Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Play (Remixes, Vol. 2)\\5. Play (INFANCTUS Remix).flac",
+    "relpath": "albums\\Play (Remixes, Vol. 2)\\5. Play (INFANCTUS Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Pretty Girls (Main Version)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Pretty Girls\\1. Pretty Girls (Main Version).flac",
+    "relpath": "albums\\Pretty Girls\\1. Pretty Girls (Main Version).flac"
+  },
+  {
+    "artist": "Katy Perry ft. Aitana",
+    "title": "Resilient (Ti\u00ebsto remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Resilient (Ti\u00ebsto Remix)\\1. Resilient (Ti\u00ebsto remix).flac",
+    "relpath": "albums\\Resilient (Ti\u00ebsto Remix)\\1. Resilient (Ti\u00ebsto remix).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Ring-A-Ding Ding",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\1. Ring-A-Ding Ding.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\1. Ring-A-Ding Ding.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "You'd Be So Easy To Love",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\10. You'd Be So Easy To Love.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\10. You'd Be So Easy To Love.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "You And The Night And The Music",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\11. You And The Night And The Music.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\11. You And The Night And The Music.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "I've Got My Love To Keep Me Warm",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\12. I've Got My Love To Keep Me Warm.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\12. I've Got My Love To Keep Me Warm.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Zing! Went The Strings Of My Heart",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\13. Zing! Went The Strings Of My Heart.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\13. Zing! Went The Strings Of My Heart.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Have You Met Miss Jones (Outtake)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\14. Have You Met Miss Jones (Outtake).flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\14. Have You Met Miss Jones (Outtake).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Let's Fall In Love",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\2. Let's Fall In Love.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\2. Let's Fall In Love.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Be Careful, It's My Heart",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\3. Be Careful, It's My Heart.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\3. Be Careful, It's My Heart.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "A Foggy Day",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\4. A Foggy Day.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\4. A Foggy Day.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "A Fine Romance",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\5. A Fine Romance.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\5. A Fine Romance.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "In The Still Of The Night",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\6. In The Still Of The Night.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\6. In The Still Of The Night.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "The Coffee Song",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\7. The Coffee Song.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\7. The Coffee Song.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "When I Take My Sugar To Tea",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\8. When I Take My Sugar To Tea.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\8. When I Take My Sugar To Tea.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Let's Face The Music And Dance",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ring-A-Ding Ding!\\9. Let's Face The Music And Dance.flac",
+    "relpath": "albums\\Ring-A-Ding Ding!\\9. Let's Face The Music And Dance.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Rise",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Rise\\1. Rise.flac",
+    "relpath": "albums\\Rise\\1. Rise.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Rise (Purity Ring Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Rise Remixes\\1. Rise (Purity Ring Remix).flac",
+    "relpath": "albums\\Rise Remixes\\1. Rise (Purity Ring Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Rise (Monsieur Adi Radio Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Rise Remixes\\2. Rise (Monsieur Adi Radio Edit).flac",
+    "relpath": "albums\\Rise Remixes\\2. Rise (Monsieur Adi Radio Edit).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Rise (T\u0100L\u0100 Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Rise Remixes\\3. Rise (T\u0100L\u0100 Remix).flac",
+    "relpath": "albums\\Rise Remixes\\3. Rise (T\u0100L\u0100 Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Roar",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Roar\\1. Roar.flac",
+    "relpath": "albums\\Roar\\1. Roar.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Cry About It Later",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Scorpio SZN\\1. Cry About It Later.flac",
+    "relpath": "albums\\Scorpio SZN\\1. Cry About It Later.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "E.T.",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Scorpio SZN\\2. E.T..flac",
+    "relpath": "albums\\Scorpio SZN\\2. E.T..flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Dark Horse",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Scorpio SZN\\3. Dark Horse.flac",
+    "relpath": "albums\\Scorpio SZN\\3. Dark Horse.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Ghost",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Scorpio SZN\\4. Ghost.flac",
+    "relpath": "albums\\Scorpio SZN\\4. Ghost.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Spiritual",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Scorpio SZN\\5. Spiritual.flac",
+    "relpath": "albums\\Scorpio SZN\\5. Spiritual.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Dance With The Devil",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Scorpio SZN\\6. Dance With The Devil.flac",
+    "relpath": "albums\\Scorpio SZN\\6. Dance With The Devil.flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Send My Love (to Your New Lover)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Send My Love (To Your New Lover)\\1. Send My Love (to Your New Lover).flac",
+    "relpath": "albums\\Send My Love (To Your New Lover)\\1. Send My Love (to Your New Lover).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Shape of You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Shape Of You\\1. Shape of You.flac",
+    "relpath": "albums\\Shape Of You\\1. Shape of You.flac"
+  },
+  {
+    "artist": "LAY & Alan Walker",
+    "title": "Sheep (Alan Walker Relift)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheep (Alan Walker Relift)\\1. Sheep (Alan Walker Relift).flac",
+    "relpath": "albums\\Sheep (Alan Walker Relift)\\1. Sheep (Alan Walker Relift).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Let It Out",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ Loose Change\\1. Let It Out.flac",
+    "relpath": "albums\\Sheeran_ Loose Change\\1. Let It Out.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Homeless",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ Loose Change\\2. Homeless.flac",
+    "relpath": "albums\\Sheeran_ Loose Change\\2. Homeless.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Little Bird",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ Loose Change\\3. Little Bird.flac",
+    "relpath": "albums\\Sheeran_ Loose Change\\3. Little Bird.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Sofa",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ Loose Change\\4. Sofa.flac",
+    "relpath": "albums\\Sheeran_ Loose Change\\4. Sofa.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "One Night",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ Loose Change\\5. One Night.flac",
+    "relpath": "albums\\Sheeran_ Loose Change\\5. One Night.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Firefly",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ Loose Change\\6. Firefly.flac",
+    "relpath": "albums\\Sheeran_ Loose Change\\6. Firefly.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "The City (Live At Sticky Studios)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ Loose Change\\7. The City (Live At Sticky Studios).flac",
+    "relpath": "albums\\Sheeran_ Loose Change\\7. The City (Live At Sticky Studios).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "You Need Me, I Don't Need You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ You Need Me\\1. You Need Me, I Don't Need You.flac",
+    "relpath": "albums\\Sheeran_ You Need Me\\1. You Need Me, I Don't Need You.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "So",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ You Need Me\\2. So.flac",
+    "relpath": "albums\\Sheeran_ You Need Me\\2. So.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Be Like You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ You Need Me\\3. Be Like You.flac",
+    "relpath": "albums\\Sheeran_ You Need Me\\3. Be Like You.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "The City",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ You Need Me\\4. The City.flac",
+    "relpath": "albums\\Sheeran_ You Need Me\\4. The City.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Sunburn",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ You Need Me\\5. Sunburn.flac",
+    "relpath": "albums\\Sheeran_ You Need Me\\5. Sunburn.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "English Rose",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ \u00d7\\18. English Rose.flac",
+    "relpath": "albums\\Sheeran_ \u00d7\\18. English Rose.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Touch And Go",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ \u00d7\\19. Touch And Go.flac",
+    "relpath": "albums\\Sheeran_ \u00d7\\19. Touch And Go.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "New York",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ \u00d7\\20. New York.flac",
+    "relpath": "albums\\Sheeran_ \u00d7\\20. New York.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Make It Rain",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ \u00d7\\21. Make It Rain.flac",
+    "relpath": "albums\\Sheeran_ \u00d7\\21. Make It Rain.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Parting Glass (Live From Wembley Stadium)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ \u00d7\\22. Parting Glass (Live From Wembley Stadium).flac",
+    "relpath": "albums\\Sheeran_ \u00d7\\22. Parting Glass (Live From Wembley Stadium).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Small Bump (Live From Wembley Stadium)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ \u00d7\\23. Small Bump (Live From Wembley Stadium).flac",
+    "relpath": "albums\\Sheeran_ \u00d7\\23. Small Bump (Live From Wembley Stadium).flac"
+  },
+  {
+    "artist": "Rudimental",
+    "title": "Lay It All On Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sheeran_ \u00d7\\24. Lay It All On Me.flac",
+    "relpath": "albums\\Sheeran_ \u00d7\\24. Lay It All On Me.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Sing",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sing\\1. Sing.flac",
+    "relpath": "albums\\Sing\\1. Sing.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sing Me To Sleep",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sing Me To Sleep\\1. Sing Me To Sleep.flac",
+    "relpath": "albums\\Sing Me To Sleep\\1. Sing Me To Sleep.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sing Me To Sleep (Instrumental)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sing Me To Sleep\\2. Sing Me To Sleep (Instrumental).flac",
+    "relpath": "albums\\Sing Me To Sleep\\2. Sing Me To Sleep (Instrumental).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sing Me To Sleep (Marshmello Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sing Me To Sleep\\3. Sing Me To Sleep (Marshmello Remix).flac",
+    "relpath": "albums\\Sing Me To Sleep\\3. Sing Me To Sleep (Marshmello Remix).flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Skyfall",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Skyfall\\1. Skyfall.flac",
+    "relpath": "albums\\Skyfall\\1. Skyfall.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Slumber Party (Bad Royale Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Slumber Party_ Remix EP\\1. Slumber Party (Bad Royale Remix).flac",
+    "relpath": "albums\\Slumber Party_ Remix EP\\1. Slumber Party (Bad Royale Remix).flac"
+  },
+  {
+    "artist": "Britney Spears Ft. Tinashe",
+    "title": "Slumber Party (Marc Stout & Scott Svejda Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Slumber Party_ Remix EP\\2. Slumber Party (Marc Stout & Scott Svejda Remix).flac",
+    "relpath": "albums\\Slumber Party_ Remix EP\\2. Slumber Party (Marc Stout & Scott Svejda Remix).flac"
+  },
+  {
+    "artist": "Britney Spears Ft. Tinashe",
+    "title": "Slumber Party (Bimbo Jones Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Slumber Party_ Remix EP\\3. Slumber Party (Bimbo Jones Remix).flac",
+    "relpath": "albums\\Slumber Party_ Remix EP\\3. Slumber Party (Bimbo Jones Remix).flac"
+  },
+  {
+    "artist": "Britney Spears Ft. Tinashe",
+    "title": "Slumber Party (Danny Dove Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Slumber Party_ Remix EP\\4. Slumber Party (Danny Dove Remix).flac",
+    "relpath": "albums\\Slumber Party_ Remix EP\\4. Slumber Party (Danny Dove Remix).flac"
+  },
+  {
+    "artist": "Britney Spears Ft. Tinashe",
+    "title": "Slumber Party (Misha K Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Slumber Party_ Remix EP\\5. Slumber Party (Misha K Remix).flac",
+    "relpath": "albums\\Slumber Party_ Remix EP\\5. Slumber Party (Misha K Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Small Talk",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Small Talk\\1. Small Talk.flac",
+    "relpath": "albums\\Small Talk\\1. Small Talk.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Small Talk (Lost Kings remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Small Talk (Lost Kings Remix)\\1. Small Talk (Lost Kings remix).flac",
+    "relpath": "albums\\Small Talk (Lost Kings Remix)\\1. Small Talk (Lost Kings remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Small Talk (Sofi Tukker remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Small Talk (Sofi Tukker Remix)\\1. Small Talk (Sofi Tukker remix).flac",
+    "relpath": "albums\\Small Talk (Sofi Tukker Remix)\\1. Small Talk (Sofi Tukker remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Small Talk (White Panda Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Small Talk (White Panda Remix)\\1. Small Talk (White Panda Remix).flac",
+    "relpath": "albums\\Small Talk (White Panda Remix)\\1. Small Talk (White Panda Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Smile (Giorgio Moroder Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Smile (Giorgio Moroder Remix)\\1. Smile (Giorgio Moroder Remix).flac",
+    "relpath": "albums\\Smile (Giorgio Moroder Remix)\\1. Smile (Giorgio Moroder Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Smile (Joel Corry remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Smile (Joel Corry Remix)\\1. Smile (Joel Corry remix).flac",
+    "relpath": "albums\\Smile (Joel Corry Remix)\\1. Smile (Joel Corry remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Smile (Marshall Jefferson remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Smile (Marshall Jefferson Remix)\\1. Smile (Marshall Jefferson remix).flac",
+    "relpath": "albums\\Smile (Marshall Jefferson Remix)\\1. Smile (Marshall Jefferson remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Smile (M\u201022 remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Smile (M\u201022 Remix)\\1. Smile (M\u201022 remix).flac",
+    "relpath": "albums\\Smile (M\u201022 Remix)\\1. Smile (M\u201022 remix).flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Fall",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Songs I Wrote With Amy\\1. Fall.flac",
+    "relpath": "albums\\Songs I Wrote With Amy\\1. Fall.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Fire Alarms",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Songs I Wrote With Amy\\2. Fire Alarms.flac",
+    "relpath": "albums\\Songs I Wrote With Amy\\2. Fire Alarms.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Where We Land",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Songs I Wrote With Amy\\3. Where We Land.flac",
+    "relpath": "albums\\Songs I Wrote With Amy\\3. Where We Land.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Cold Coffee",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Songs I Wrote With Amy\\4. Cold Coffee.flac",
+    "relpath": "albums\\Songs I Wrote With Amy\\4. Cold Coffee.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "She",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Songs I Wrote With Amy\\5. She.flac",
+    "relpath": "albums\\Songs I Wrote With Amy\\5. She.flac"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "South Of The Border (Acoustic)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\South Of The Border (Acoustic)\\1. South Of The Border (Acoustic).flac",
+    "relpath": "albums\\South Of The Border (Acoustic)\\1. South Of The Border (Acoustic).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Spectre",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Spectre\\1. Spectre.flac",
+    "relpath": "albums\\Spectre\\1. Spectre.flac"
+  },
+  {
+    "artist": "Dido",
+    "title": "Stoned (Deep Dish Vocal)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Stoned\\2. Stoned (Deep Dish Vocal).flac",
+    "relpath": "albums\\Stoned\\2. Stoned (Deep Dish Vocal).flac"
+  },
+  {
+    "artist": "Alan Walker & Imanbek",
+    "title": "Sweet Dreams",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sweet Dreams\\1. Sweet Dreams.flac",
+    "relpath": "albums\\Sweet Dreams\\1. Sweet Dreams.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sweet Dreams (With Alok)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sweet Dreams (Remixes)\\1. Sweet Dreams (With Alok).flac",
+    "relpath": "albums\\Sweet Dreams (Remixes)\\1. Sweet Dreams (With Alok).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sweet Dreams (Brooks Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sweet Dreams (Remixes)\\2. Sweet Dreams (Brooks Remix).flac",
+    "relpath": "albums\\Sweet Dreams (Remixes)\\2. Sweet Dreams (Brooks Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sweet Dreams (Curbi Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sweet Dreams (Remixes)\\3. Sweet Dreams (Curbi Remix).flac",
+    "relpath": "albums\\Sweet Dreams (Remixes)\\3. Sweet Dreams (Curbi Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sweet Dreams (Mari Ferrari & Rompasso Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sweet Dreams (Remixes)\\4. Sweet Dreams (Mari Ferrari & Rompasso Remix).flac",
+    "relpath": "albums\\Sweet Dreams (Remixes)\\4. Sweet Dreams (Mari Ferrari & Rompasso Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sweet Dreams (DES3ETT Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sweet Dreams_ Remixes, Pt. II\\1. Sweet Dreams (DES3ETT Remix).flac",
+    "relpath": "albums\\Sweet Dreams_ Remixes, Pt. II\\1. Sweet Dreams (DES3ETT Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sweet Dreams (Affe Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sweet Dreams_ Remixes, Pt. II\\2. Sweet Dreams (Affe Remix).flac",
+    "relpath": "albums\\Sweet Dreams_ Remixes, Pt. II\\2. Sweet Dreams (Affe Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Sweet Dreams (Jeonghyeon Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Sweet Dreams_ Remixes, Pt. II\\3. Sweet Dreams (Jeonghyeon Remix).flac",
+    "relpath": "albums\\Sweet Dreams_ Remixes, Pt. II\\3. Sweet Dreams (Jeonghyeon Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Swimming in the Stars",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Swimming In The Stars\\1. Swimming in the Stars.flac",
+    "relpath": "albums\\Swimming In The Stars\\1. Swimming in the Stars.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Swish Swish (Blonde remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Swish Swish (Blonde Remix)\\1. Swish Swish (Blonde remix).flac",
+    "relpath": "albums\\Swish Swish (Blonde Remix)\\1. Swish Swish (Blonde remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Swish Swish (Cheat Codes remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Swish Swish (Cheat Codes Remix)\\1. Swish Swish (Cheat Codes remix).flac",
+    "relpath": "albums\\Swish Swish (Cheat Codes Remix)\\1. Swish Swish (Cheat Codes remix).flac"
+  },
+  {
+    "artist": "Katy Perry feat. Nicki Minaj",
+    "title": "Swish Swish (Valentino Khan remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Swish Swish (Valentino Khan Remix)\\1. Swish Swish (Valentino Khan remix).flac",
+    "relpath": "albums\\Swish Swish (Valentino Khan Remix)\\1. Swish Swish (Valentino Khan remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Teenage Dream (Vandalism Le Pop Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Teenage Dream_ Remixes\\1. Teenage Dream (Vandalism Le Pop Mix).flac",
+    "relpath": "albums\\Teenage Dream_ Remixes\\1. Teenage Dream (Vandalism Le Pop Mix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Teenage Dream (Vandalism V8 Vocal Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Teenage Dream_ Remixes\\2. Teenage Dream (Vandalism V8 Vocal Remix).flac",
+    "relpath": "albums\\Teenage Dream_ Remixes\\2. Teenage Dream (Vandalism V8 Vocal Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Teenage Dream (Manhattan Clique Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Teenage Dream_ Remixes\\3. Teenage Dream (Manhattan Clique Remix).flac",
+    "relpath": "albums\\Teenage Dream_ Remixes\\3. Teenage Dream (Manhattan Clique Remix).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "I Have Dreamed",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\1. I Have Dreamed.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\1. I Have Dreamed.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "America, The Beautiful",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\10. America, The Beautiful.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\10. America, The Beautiful.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "My Heart Stood Still",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\2. My Heart Stood Still.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\2. My Heart Stood Still.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Lost In The Stars",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\3. Lost In The Stars.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\3. Lost In The Stars.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Ol\u2019 Man River",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\4. Ol\u2019 Man River.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\4. Ol\u2019 Man River.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "You\u2019ll Never Walk Alone",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\5. You\u2019ll Never Walk Alone.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\5. You\u2019ll Never Walk Alone.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Bewitched",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\6. Bewitched.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\6. Bewitched.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "This Nearly Was Mine",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\7. This Nearly Was Mine.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\7. This Nearly Was Mine.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Soliloquy",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\8. Soliloquy.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\8. Soliloquy.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "California",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Concert Sinatra (Expanded Edition)\\9. California.flac",
+    "relpath": "albums\\The Concert Sinatra (Expanded Edition)\\9. California.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Energy",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Need Of Love\\1. Energy.flac",
+    "relpath": "albums\\The Need Of Love\\1. Energy.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Beauty",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Need Of Love\\2. Beauty.flac",
+    "relpath": "albums\\The Need Of Love\\2. Beauty.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "I Can Feel It In My Bones",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Need Of Love\\3. I Can Feel It In My Bones.flac",
+    "relpath": "albums\\The Need Of Love\\3. I Can Feel It In My Bones.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "I Think About Lovin\u2019 You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Need Of Love\\4. I Think About Lovin\u2019 You.flac",
+    "relpath": "albums\\The Need Of Love\\4. I Think About Lovin\u2019 You.flac"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Everything Is Everything",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Need Of Love\\5. Everything Is Everything.flac",
+    "relpath": "albums\\The Need Of Love\\5. Everything Is Everything.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "You Go To My Head",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\1. You Go To My Head.flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\1. You Go To My Head.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "That Old Feeling (Alternate Take)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\10. That Old Feeling (Alternate Take).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\10. That Old Feeling (Alternate Take).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "If I Had You (Previously Unreleased Alternate Take)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\11. If I Had You (Previously Unreleased Alternate Take).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\11. If I Had You (Previously Unreleased Alternate Take).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "The Nearness Of You (Alternate Take)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\12. The Nearness Of You (Alternate Take).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\12. The Nearness Of You (Alternate Take).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Spring Is Here (Previously Unreleased Alternate Take)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\13. Spring Is Here (Previously Unreleased Alternate Take).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\13. Spring Is Here (Previously Unreleased Alternate Take).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Fools Rush In (Where Angels Fear To Tread)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\14. Fools Rush In (Where Angels Fear To Tread).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\14. Fools Rush In (Where Angels Fear To Tread).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "When You Awake (Previously Unreleased Alternate Take)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\15. When You Awake (Previously Unreleased Alternate Take).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\15. When You Awake (Previously Unreleased Alternate Take).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "It Never Entered My Mind (Previously Unreleased Alternate Take)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\16. It Never Entered My Mind (Previously Unreleased Alternate Take).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\16. It Never Entered My Mind (Previously Unreleased Alternate Take).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Always (Alternate Take)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\17. Always (Alternate Take).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\17. Always (Alternate Take).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "(I Don't Stand) A Ghost Of A Chance (Previously Unreleased Alternate Take)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\18. (I Don't Stand) A Ghost Of A Chance (Previously Unreleased Alternate Take).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\18. (I Don't Stand) A Ghost Of A Chance (Previously Unreleased Alternate Take).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Someone To Watch Over Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\2. Someone To Watch Over Me.flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\2. Someone To Watch Over Me.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "These Foolish Things (Remind Me Of You)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\3. These Foolish Things (Remind Me Of You).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\3. These Foolish Things (Remind Me Of You).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Why Shouldn't",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\4. Why Shouldn't.flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\4. Why Shouldn't.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "I Don't Know Why (I Just Do)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\5. I Don't Know Why (I Just Do).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\5. I Don't Know Why (I Just Do).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Try A Little Tenderness",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\6. Try A Little Tenderness.flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\6. Try A Little Tenderness.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "I Don't Stand A Ghost Of A Chance",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\7. I Don't Stand A Ghost Of A Chance.flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\7. I Don't Stand A Ghost Of A Chance.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Paradise",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\8. Paradise.flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\8. Paradise.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Mam'Selle (Previously Unreleased Alternate Take)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The Voice Of Frank Sinatra\\9. Mam'Selle (Previously Unreleased Alternate Take).flac",
+    "relpath": "albums\\The Voice Of Frank Sinatra\\9. Mam'Selle (Previously Unreleased Alternate Take).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "The World We Knew (Over And Over)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\1. The World We Knew (Over And Over).flac",
+    "relpath": "albums\\The World We Knew\\1. The World We Knew (Over And Over).flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Some Enchanted Evening",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\10. Some Enchanted Evening.flac",
+    "relpath": "albums\\The World We Knew\\10. Some Enchanted Evening.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Somethin' Stupid",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\2. Somethin' Stupid.flac",
+    "relpath": "albums\\The World We Knew\\2. Somethin' Stupid.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "This Is My Love",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\3. This Is My Love.flac",
+    "relpath": "albums\\The World We Knew\\3. This Is My Love.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Born Free",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\4. Born Free.flac",
+    "relpath": "albums\\The World We Knew\\4. Born Free.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Don't Sleep In The Subway",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\5. Don't Sleep In The Subway.flac",
+    "relpath": "albums\\The World We Knew\\5. Don't Sleep In The Subway.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "This Town",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\6. This Town.flac",
+    "relpath": "albums\\The World We Knew\\6. This Town.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "This Is My Song",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\7. This Is My Song.flac",
+    "relpath": "albums\\The World We Knew\\7. This Is My Song.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "You Are There",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\8. You Are There.flac",
+    "relpath": "albums\\The World We Knew\\8. You Are There.flac"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Drinking Again",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\The World We Knew\\9. Drinking Again.flac",
+    "relpath": "albums\\The World We Knew\\9. Drinking Again.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Thinking Of You (Live Acoustic)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Thinking Of You\\2. Thinking Of You (Live Acoustic).flac",
+    "relpath": "albums\\Thinking Of You\\2. Thinking Of You (Live Acoustic).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "This Is How We Do",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\This Is How We Do!\\1. This Is How We Do.flac",
+    "relpath": "albums\\This Is How We Do!\\1. This Is How We Do.flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Till the World Ends (Twister Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Till The World Ends (Twister Remix)\\1. Till the World Ends (Twister Remix).flac",
+    "relpath": "albums\\Till The World Ends (Twister Remix)\\1. Till the World Ends (Twister Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Hans Zimmer",
+    "title": "Time (Alan Walker Remix) [Extended Version]",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Time (Alan Walker Remix)\\2. Time (Alan Walker Remix) [Extended Version].flac",
+    "relpath": "albums\\Time (Alan Walker Remix)\\2. Time (Alan Walker Remix) [Extended Version].flac"
+  },
+  {
+    "artist": "Gavin James",
+    "title": "Tired",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Tired\\1. Tired.flac",
+    "relpath": "albums\\Tired\\1. Tired.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Tired (Axollo Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Tired (Remixes)\\1. Tired (Axollo Remix).flac",
+    "relpath": "albums\\Tired (Remixes)\\1. Tired (Axollo Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Gavin James",
+    "title": "Tired (Lemarroy Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Tired (Remixes)\\2. Tired (Lemarroy Remix).flac",
+    "relpath": "albums\\Tired (Remixes)\\2. Tired (Lemarroy Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Gavin James",
+    "title": "Tired (Kovan & Alex Skrindo Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Tired (Remixes)\\3. Tired (Kovan & Alex Skrindo Remix).flac",
+    "relpath": "albums\\Tired (Remixes)\\3. Tired (Kovan & Alex Skrindo Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Gavin James",
+    "title": "Tired (Alan Walker Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Tired (Remixes)\\4. Tired (Alan Walker Remix).flac",
+    "relpath": "albums\\Tired (Remixes)\\4. Tired (Alan Walker Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Gavin James",
+    "title": "Tired (Bruno Martini Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Tired (Remixes)\\5. Tired (Bruno Martini Remix).flac",
+    "relpath": "albums\\Tired (Remixes)\\5. Tired (Bruno Martini Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Gavin James",
+    "title": "Tired (K-391 Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Tired (Remixes)\\6. Tired (K-391 Remix).flac",
+    "relpath": "albums\\Tired (Remixes)\\6. Tired (K-391 Remix).flac"
+  },
+  {
+    "artist": "Alan Walker & Gavin James",
+    "title": "Tired (Steerner & Tobu Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Tired (Remixes)\\7. Tired (Steerner & Tobu Remix).flac",
+    "relpath": "albums\\Tired (Remixes)\\7. Tired (Steerner & Tobu Remix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Toxic (Armand Van Helden Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Toxic\\1. Toxic (Armand Van Helden Remix).flac",
+    "relpath": "albums\\Toxic\\1. Toxic (Armand Van Helden Remix).flac"
+  },
+  {
+    "artist": "Britney Spears & Felix Da Housecat",
+    "title": "Toxic (Felix Da Housecat\u2019s Club Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Toxic\\2. Toxic (Felix Da Housecat\u2019s Club Mix).flac",
+    "relpath": "albums\\Toxic\\2. Toxic (Felix Da Housecat\u2019s Club Mix).flac"
+  },
+  {
+    "artist": "Britney Spears & Lenny Bertoldo",
+    "title": "Toxic (Lenny Bertoldo Mix Show Edit)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Toxic\\3. Toxic (Lenny Bertoldo Mix Show Edit).flac",
+    "relpath": "albums\\Toxic\\3. Toxic (Lenny Bertoldo Mix Show Edit).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Toxic (Y2K & Alexander Lewis remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Toxic (Y2K & Alexander Lewis Remix)\\1. Toxic (Y2K & Alexander Lewis remix).flac",
+    "relpath": "albums\\Toxic (Y2K & Alexander Lewis Remix)\\1. Toxic (Y2K & Alexander Lewis remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Ur So Gay",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ur So Gay\\1. Ur So Gay.flac",
+    "relpath": "albums\\Ur So Gay\\1. Ur So Gay.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Ur So Gay (Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ur So Gay\\2. Ur So Gay (Remix).flac",
+    "relpath": "albums\\Ur So Gay\\2. Ur So Gay (Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Use Your Love",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Ur So Gay\\3. Use Your Love.flac",
+    "relpath": "albums\\Ur So Gay\\3. Use Your Love.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "I Still Have Faith In You",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\1. I Still Have Faith In You.flac",
+    "relpath": "albums\\Voyage\\1. I Still Have Faith In You.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "Ode To Freedom",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\10. Ode To Freedom.flac",
+    "relpath": "albums\\Voyage\\10. Ode To Freedom.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "When You Danced With Me",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\2. When You Danced With Me.flac",
+    "relpath": "albums\\Voyage\\2. When You Danced With Me.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "Little Things",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\3. Little Things.flac",
+    "relpath": "albums\\Voyage\\3. Little Things.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "Don\u2019t Shut Me Down",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\4. Don\u2019t Shut Me Down.flac",
+    "relpath": "albums\\Voyage\\4. Don\u2019t Shut Me Down.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "Just A Notion",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\5. Just A Notion.flac",
+    "relpath": "albums\\Voyage\\5. Just A Notion.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "I Can Be That Woman",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\6. I Can Be That Woman.flac",
+    "relpath": "albums\\Voyage\\6. I Can Be That Woman.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "Keep An Eye On Dan",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\7. Keep An Eye On Dan.flac",
+    "relpath": "albums\\Voyage\\7. Keep An Eye On Dan.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "Bumblebee",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\8. Bumblebee.flac",
+    "relpath": "albums\\Voyage\\8. Bumblebee.flac"
+  },
+  {
+    "artist": "ABBA",
+    "title": "No Doubt About It",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Voyage\\9. No Doubt About It.flac",
+    "relpath": "albums\\Voyage\\9. No Doubt About It.flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Waking Up In Vegas (Calvin Harris Extended Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Waking Up In Vegas_ The Remixes\\2. Waking Up In Vegas (Calvin Harris Extended Remix).flac",
+    "relpath": "albums\\Waking Up In Vegas_ The Remixes\\2. Waking Up In Vegas (Calvin Harris Extended Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Waking Up In Vegas (Jason Nevins Electrotec Club Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Waking Up In Vegas_ The Remixes\\3. Waking Up In Vegas (Jason Nevins Electrotec Club Remix).flac",
+    "relpath": "albums\\Waking Up In Vegas_ The Remixes\\3. Waking Up In Vegas (Jason Nevins Electrotec Club Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Waking Up In Vegas (Jason Nevins Electrotec Dub)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Waking Up In Vegas_ The Remixes\\4. Waking Up In Vegas (Jason Nevins Electrotec Dub).flac",
+    "relpath": "albums\\Waking Up In Vegas_ The Remixes\\4. Waking Up In Vegas (Jason Nevins Electrotec Dub).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Waking Up In Vegas (Manhattan Clique Bellagio Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Waking Up In Vegas_ The Remixes\\5. Waking Up In Vegas (Manhattan Clique Bellagio Remix).flac",
+    "relpath": "albums\\Waking Up In Vegas_ The Remixes\\5. Waking Up In Vegas (Manhattan Clique Bellagio Remix).flac"
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Waking Up In Vegas (Manhattan Clique Luxor Dub)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Waking Up In Vegas_ The Remixes\\6. Waking Up In Vegas (Manhattan Clique Luxor Dub).flac",
+    "relpath": "albums\\Waking Up In Vegas_ The Remixes\\6. Waking Up In Vegas (Manhattan Clique Luxor Dub).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Time (Alan Walker Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Walker; Zimmer_ Time (Alan Walker Remix)\\1. Time (Alan Walker Remix).flac",
+    "relpath": "albums\\Walker; Zimmer_ Time (Alan Walker Remix)\\1. Time (Alan Walker Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Walker_ Alone\\1. Alone.flac",
+    "relpath": "albums\\Walker_ Alone\\1. Alone.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone (Lost Frequencies Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Walker_ Alone (Remixes)\\1. Alone (Lost Frequencies Remix).flac",
+    "relpath": "albums\\Walker_ Alone (Remixes)\\1. Alone (Lost Frequencies Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Alone (Alex Arcoleo Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Walker_ Alone (Remixes)\\2. Alone (Alex Arcoleo Remix).flac",
+    "relpath": "albums\\Walker_ Alone (Remixes)\\2. Alone (Alex Arcoleo Remix).flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "Fade",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Walker_ Fade\\1. Fade.flac",
+    "relpath": "albums\\Walker_ Fade\\1. Fade.flac"
+  },
+  {
+    "artist": "Alan Walker",
+    "title": "The Spectre",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Walker_ The Spectre\\1. The Spectre.flac",
+    "relpath": "albums\\Walker_ The Spectre\\1. The Spectre.flac"
+  },
+  {
+    "artist": "Adele",
+    "title": "Water Under the Bridge",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Water Under The Bridge\\1. Water Under the Bridge.flac",
+    "relpath": "albums\\Water Under The Bridge\\1. Water Under the Bridge.flac"
+  },
+  {
+    "artist": "Alesso",
+    "title": "When I\u2019m Gone",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\When I\u2019m Gone\\1. When I\u2019m Gone.flac",
+    "relpath": "albums\\When I\u2019m Gone\\1. When I\u2019m Gone.flac"
+  },
+  {
+    "artist": "Alesso with Katy Perry",
+    "title": "When I\u2019m Gone (VIP mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\When I\u2019m Gone (VIP Mix)\\1. When I\u2019m Gone (VIP mix).flac",
+    "relpath": "albums\\When I\u2019m Gone (VIP Mix)\\1. When I\u2019m Gone (VIP mix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Womanizer (Benny Benassi Extended)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Womanizer (Remix EP)\\2. Womanizer (Benny Benassi Extended).flac",
+    "relpath": "albums\\Womanizer (Remix EP)\\2. Womanizer (Benny Benassi Extended).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Womanizer (Junior's Tribal Electro Mix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Womanizer (Remix EP)\\3. Womanizer (Junior's Tribal Electro Mix).flac",
+    "relpath": "albums\\Womanizer (Remix EP)\\3. Womanizer (Junior's Tribal Electro Mix).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Womanizer (Jason Nevins Club)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Womanizer (Remix EP)\\4. Womanizer (Jason Nevins Club).flac",
+    "relpath": "albums\\Womanizer (Remix EP)\\4. Womanizer (Jason Nevins Club).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Womanizer (Tonal Extended)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Womanizer (Remix EP)\\5. Womanizer (Tonal Extended).flac",
+    "relpath": "albums\\Womanizer (Remix EP)\\5. Womanizer (Tonal Extended).flac"
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Womanizer (Kaskade Remix)",
+    "path": "C:\\Users\\Krishnaraj\\Downloads\\python files\\populate_m3u_with_relative_path\\albums\\Womanizer (Remixes)\\1. Womanizer (Kaskade Remix).flac",
+    "relpath": "albums\\Womanizer (Remixes)\\1. Womanizer (Kaskade Remix).flac"
+  }
+]
