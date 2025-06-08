@@ -30,7 +30,6 @@ DATE_FORMATS = [
     (r"\d{13}", "timestamp_ms"),  # Unix timestamp (ms)
     (r"\d{10}", "timestamp_s"),  # Unix timestamp (s)
     (r"\d{4}-\d{2}-\d{2}-\d{2}-\d{2}-\d{2}", "%Y-%m-%d-%H-%M-%S"),  # YYYY-MM-DD-HH-MM-SS
-    (r"\d{4}_\d{2}_\d{2}_\d{2}_\d{2}_\d{2}", "%Y_%m_%d_%H_%M_%S"),  # YYYY_MM_DD_HH_MM_SS
     (r"\d{4}\d{2}\d{2}-\d{2}\d{2}\d{2}", "%Y%m%d-%H%M%S"),  # YYYYMMDD-HHMMSS
 ]
 FORMAT_EXAMPLES = [
@@ -56,10 +55,8 @@ FORMAT_EXAMPLES = [
     "1431459209866 (Format: Unix timestamp in ms)",
     "1431459209 (Format: Unix timestamp in s)",
     "2023-12-25-14-30-22 (Format: YYYY-MM-DD-HH-MM-SS)",
-    "2023_12_25_14_30_22  (Format: YYYY_MM_DD_HH_MM_SS)",
     "20231225-143022 (Format: YYYYMMDD-HHMMSS)",
 ]
-
 
 def user_inputs():
     folder_path = input("Enter the folder path containing images: ")
@@ -83,32 +80,25 @@ def user_inputs():
     date_format, format_str = DATE_FORMATS[choice]
     return folder_path, date_format, format_str
 
-
-# ----------------------------
-# Actual code.
-
-
 def set_creation_time_win_api(filepath, date):
     """
     Set file creation time using Windows API.
     """
     try:
-        # Convert datetime to Windows FILETIME format
         filetime = pywintypes.Time(date)
         handle = win32file.CreateFile(
             filepath,
             win32file.GENERIC_WRITE,
             win32file.FILE_SHARE_WRITE,
-            None,  # SecurityAttributes
+            None,
             win32file.OPEN_EXISTING,
             win32file.FILE_ATTRIBUTE_NORMAL,
-            None,  # TemplateFile
+            None,
         )
-        win32file.SetFileTime(handle, filetime, None, None)  # Set creation time
+        win32file.SetFileTime(handle, filetime, None, None)
         handle.Close()
     except Exception as e:
         print(f"Failed to set creation time for {filepath}: {e}")
-
 
 def parse_date(date_str, format_str):
     try:
@@ -121,103 +111,94 @@ def parse_date(date_str, format_str):
     except (ValueError, TypeError):
         return None
 
-
 def get_extension(filepath):
     _, ext = os.path.splitext(filepath)
-    return ext.lower()  # Convert to lowercase for consistency
-
+    return ext.lower()
 
 def modify_exif_and_create_modify_times(filepath, correct_date):
+    try:
+        set_creation_time_win_api(filepath, correct_date)
+        os.utime(filepath, (correct_date.timestamp(), correct_date.timestamp()))
 
-    # irrespective of the file format, set the creation time and modification time
-    set_creation_time_win_api(filepath, correct_date)
-    # set modification time.
-    os.utime(filepath, (correct_date.timestamp(), correct_date.timestamp()))
-
-    # check file format first.
-    if get_extension(filepath) in [".jpg", ".jpeg"]:
-        try:
-            img = Image.open(filepath)
-            exif_dict = (
-                piexif.load(img.info.get("exif", b""))
-                if "exif" in img.info
-                else {"0th": {}, "Exif": {}, "GPS": {}, "1st": {}, "thumbnail": None}
-            )
-            correct_date_str = correct_date.strftime("%Y:%m:%d %H:%M:%S")
-            exif_dict["0th"][piexif.ImageIFD.DateTime] = correct_date_str
-            exif_dict["Exif"][piexif.ExifIFD.DateTimeOriginal] = correct_date_str
-            exif_dict["Exif"][piexif.ExifIFD.DateTimeDigitized] = correct_date_str
-            exif_bytes = piexif.dump(exif_dict)
-            img.save(filepath, exif=exif_bytes)
-            img.close()
-            return True
-        except Exception as e:
-            print(f"Error modifying {filepath}: {e}")
-            return False
-
-    return True
-
+        if get_extension(filepath) in [".jpg", ".jpeg"]:
+            try:
+                img = Image.open(filepath)
+                exif_dict = (
+                    piexif.load(img.info.get("exif", b""))
+                    if "exif" in img.info
+                    else {"0th": {}, "Exif": {}, "GPS": {}, "1st": {}, "thumbnail": None}
+                )
+                correct_date_str = correct_date.strftime("%Y:%m:%d %H:%M:%S")
+                exif_dict["0th"][piexif.ImageIFD.DateTime] = correct_date_str
+                exif_dict["Exif"][piexif.ExifIFD.DateTimeOriginal] = correct_date_str
+                exif_dict["Exif"][piexif.ExifIFD.DateTimeDigitized] = correct_date_str
+                exif_bytes = piexif.dump(exif_dict)
+                img.save(filepath, exif=exif_bytes)
+                img.close()
+                return True
+            except Exception as e:
+                print(f"Error modifying {filepath}: {e}")
+                return False
+        return True
+    except Exception as e:
+        print(f"Error setting file times for {filepath}: {e}")
+        return False
 def process_folder(folder_path, date_format, format_str):
     failed_files = []
     processed_files = []
 
-    # List all files first for proper tqdm count
-    all_files = [f for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))]
+    # Walk through all directories and subdirectories
+    all_files = []
+    for root, _, files in os.walk(folder_path):
+        for filename in files:
+            all_files.append((root, filename))
 
-    for filename in tqdm(all_files, desc="Processing files"):
-        filepath = os.path.join(folder_path, filename)
+    for root, filename in tqdm(all_files, desc="Processing files"):
+        filepath = os.path.join(root, filename)
 
-        # Search for date in filename
         date_match = re.search(date_format, filename)
         if date_match:
             date_str = date_match.group()
-
             date = parse_date(date_str, format_str)
 
             if date and modify_exif_and_create_modify_times(filepath, date):
-
-                # Prepare new filename with Unix timestamp in milliseconds
                 new_date_str = str(int(date.timestamp() * 1000))
                 _, ext = os.path.splitext(filename)
                 new_filename = f"{new_date_str}{ext}"
-                new_filepath = os.path.join(folder_path, new_filename)
+                new_filepath = os.path.join(root, new_filename)
 
-                # check new file name is not original file name
                 if new_filename == filename:
-                    print(
-                        f"New filename is the same as original filename for : {filename}, skipping rename."
-                    )
-                    processed_files.append(new_filename)
+                    print(f"New filename is the same as original filename for: {filename}, skipping rename.")
+                    processed_files.append(os.path.join(root, new_filename))
                     continue
 
-                # Ensure unique filename by incrementing milliseconds
                 counter = 1
                 while os.path.exists(new_filepath):
                     incremented_timestamp = int(new_date_str) + counter
                     new_filename = f"{incremented_timestamp}{ext}"
-                    new_filepath = os.path.join(folder_path, new_filename)
+                    new_filepath = os.path.join(root, new_filename)
                     counter += 1
 
-                # Rename file
                 try:
                     os.rename(filepath, new_filepath)
-                    processed_files.append(new_filename)
+                    processed_files.append(os.path.join(root, new_filename))
                 except Exception as e:
                     print(f"Failed to rename {filepath} to {new_filepath}: {e}")
-                    failed_files.append(filename)
+                    failed_files.append(os.path.join(root, filename))
             else:
-                print("Failed to modify EXIF data or set file times for:", filename)
-                failed_files.append(filename)
+                print(f"Failed to modify EXIF data or set file times for: {os.path.join(root, filename)}")
+                failed_files.append(os.path.join(root, filename))
         else:
-            print("No date found in filename:", filename)
-            failed_files.append(filename)
+            print(f"No date found in filename: {os.path.join(root, filename)}")
+            failed_files.append(os.path.join(root, filename))
 
     return failed_files, processed_files
 
-
-
 def main():
     folder_path, date_format, format_str = user_inputs()
+    if not folder_path:
+        return
+
     failed_files, processed_files = process_folder(folder_path, date_format, format_str)
 
     if processed_files:
@@ -231,7 +212,6 @@ def main():
             print(file)
     else:
         print("\nAll files processed successfully")
-
 
 if __name__ == "__main__":
     main()

@@ -83,5 +83,14 @@ def main():
             set_creation_time(filepath, new_date)
             set_file_times(filepath, new_date)
 
+        # if file is a video
+        elif filename.lower().endswith(('.mp4', '.avi', '.mov', '.mkv', '')):
+            print(f"Processing {filename}...")
+            # Set file system timestamps for video files
+            set_creation_time(filepath, new_date)
+            set_file_times(filepath, new_date)
+
+        else:
+            print(f"Skipping unsupported file type: {filename}")
 if __name__ == "__main__":
     main()

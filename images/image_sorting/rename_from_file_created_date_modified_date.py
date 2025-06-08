@@ -3,11 +3,11 @@ from datetime import datetime
 import time
 
 # Get the current directory
-folder_path = input("Enter the folder path containing webp files: ").strip()
+folder_path = input("Enter the folder path containing files: ").strip()
 if not os.path.isdir(folder_path):
     raise ValueError("The provided path is not a valid directory.")
 # Supported image extensions
-image_extensions = (".png", ".jpg", ".jpeg", ".gif", ".bmp", "webp")
+image_extensions = (".png", ".jpg", ".jpeg", ".gif", ".bmp", "webp", "mp4", ".avi", ".mov", ".mkv", ".3gp", ".amr", ".3gpp", ".aac", ".m4a", ".mp3")
 
 # ask if user wants to use creation time or modified time
 use_creation_time = (
